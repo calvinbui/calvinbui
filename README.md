@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/c-bui/"><img src="https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/c-bui"></a>
 </p>
 
-### ✒️ Latest Blog Posts
+<h2>✒️ Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Factorio](https://calvin.me/factorio)
