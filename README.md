@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Calvin 👋</h1>
 <h3 align="center">A DevOps Engineer from 🇦🇺 Sydney, Australia</h3>
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/c-bui/"><img src="https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/c-bui"></a>
+</p>
 
 ### 📖 Latest Blog Posts
 
