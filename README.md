@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Calvin</h1>
+<h1 align="center">Hi, I'm Calvin 👋</h1>
 <h3 align="center">A DevOps Engineer from 🇦🇺 Sydney, Australia</h3>
 
 
