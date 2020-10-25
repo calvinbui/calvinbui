@@ -5,10 +5,11 @@
 [![Keybase](https://img.shields.io/badge/-calvinbui-ff6f21?style=flat-square&labelColor=ff6f21&logo=Keybase&logoColor=white)](https://keybase.io/calvinbui)
 
 <!-- https://github.com/rishavanand/github-profilinator -->
+## ⚡ GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calvinbui&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<h2>✒️ Latest Blog Posts</h2>
+## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - Sep 20 - [Factorio](https://calvin.me/factorio)
@@ -18,4 +19,3 @@
 - May 20 - [Now Powered by Gatsby](https://calvin.me/now-powered-by-gatsby)
 
 <!-- BLOG-POST-LIST:END -->
-
