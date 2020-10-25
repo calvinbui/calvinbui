@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/c-bui/"><img src="https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/c-bui"></a>
 </p>
 
-<h2>✒️ Latest Blog Posts</h2>
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<h2>✒️ Latest Blog Posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - Sep 20 - [Factorio](https://calvin.me/factorio)
 - Aug 20 - [My WFH Setup](https://calvin.me/my-wfh-setup)
