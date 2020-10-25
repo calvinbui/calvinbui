@@ -7,4 +7,11 @@
 
 <h2>✒️ Latest Blog Posts</h2>
 
-<!-- BLOG-POST-LIST:START -->Sep 20 - FactorioAug 20 - My WFH SetupJul 20 - Cracking .DMG, .RAR and other passwords on MacOSJun 20 - Blog UpdatesMay 20 - Now Powered by Gatsby<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- Sep 20 - [Factorio](https://calvin.me/factorio)
+- Aug 20 - [My WFH Setup](https://calvin.me/my-wfh-setup)
+- Jul 20 - [Cracking .DMG, .RAR and other passwords on MacOS](https://calvin.me/cracking-passwords-on-macos)
+- Jun 20 - [Blog Updates](https://calvin.me/gatsby-updates)
+- May 20 - [Now Powered by Gatsby](https://calvin.me/now-powered-by-gatsby)
+
+<!-- BLOG-POST-LIST:END -->
