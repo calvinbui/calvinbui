@@ -13,5 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://calvin.me/rss.xml"
-          template: "$date - $title"
+          template: "- $date - [$title]($url)$newline"
+          tag_post_pre_newline: true
           date_format: "mmm yy"
