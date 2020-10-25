@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Calvin 🍭</h1>
-<h3 align="center">A DevOps Engineer from 🇦🇺 Sydney, Australia</h3>
+# Hi, I'm Calvin 🍭
+## A DevOps Engineer from 🇦🇺 Sydney, Australia</h3>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/c-bui/"><img src="https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/c-bui"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/c-bui/)
+[![Keybase](https://img.shields.io/badge/-calvinbui-ff6f21?style=flat-square&labelColor=ff6f21&logo=Keybase&logoColor=white)](https://keybase.io/calvinbui)
+
+<!-- https://github.com/rishavanand/github-profilinator -->
+![](https://github-readme-stats.vercel.app/api?username=calvinbui&count_private=true&hide_title=true)
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <h2>✒️ Latest Blog Posts</h2>
@@ -16,3 +18,4 @@
 - May 20 - [Now Powered by Gatsby](https://calvin.me/now-powered-by-gatsby)
 
 <!-- BLOG-POST-LIST:END -->
+
