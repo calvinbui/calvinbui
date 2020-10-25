@@ -5,7 +5,7 @@
 [![Keybase](https://img.shields.io/badge/-calvinbui-ff6f21?style=flat-square&labelColor=ff6f21&logo=Keybase&logoColor=white)](https://keybase.io/calvinbui)
 
 <!-- https://github.com/rishavanand/github-profilinator -->
-![](https://github-readme-stats.vercel.app/api?username=calvinbui&count_private=true&hide_title=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=calvinbui&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <h2>✒️ Latest Blog Posts</h2>
