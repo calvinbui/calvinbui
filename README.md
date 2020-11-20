@@ -20,3 +20,9 @@
 - Jun 20 - [Blog Updates](https://calvin.me/gatsby-updates)
 
 <!-- BLOG-POST-LIST:END -->
+
+## 🗣 Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
