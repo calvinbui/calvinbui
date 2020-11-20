@@ -15,4 +15,4 @@ jobs:
           feed_list: "https://calvin.me/rss.xml"
           template: "- $date - [$title]($url)$newline"
           tag_post_pre_newline: true
-          date_format: "mmm yy"
+          date_format: "mmm d, yyyy"
