@@ -21,7 +21,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## 🏃‍♂️ Recent Activity
+## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1657](https://github.com/kubernetes-sigs/aws-load-balancer-controller/pull/1657) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
