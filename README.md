@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#733](https://github.com/anchore/anchore-engine/issues/733) in [anchore/anchore-engine](https://github.com/anchore/anchore-engine)
-2. ❗️ Opened issue [#15](https://github.com/calvinbui/calvin.me/issues/15) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-3. ❗️ Opened issue [#14](https://github.com/calvinbui/calvin.me/issues/14) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Closed issue [#13](https://github.com/calvinbui/calvin.me/issues/13) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. 💪 Opened PR [#1657](https://github.com/kubernetes-sigs/aws-load-balancer-controller/pull/1657) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+1. 💪 Opened PR [#225](https://github.com/Oteemo/charts/pull/225) in [Oteemo/charts](https://github.com/Oteemo/charts)
+2. ❗️ Opened issue [#733](https://github.com/anchore/anchore-engine/issues/733) in [anchore/anchore-engine](https://github.com/anchore/anchore-engine)
+3. ❗️ Opened issue [#15](https://github.com/calvinbui/calvin.me/issues/15) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+4. ❗️ Opened issue [#14](https://github.com/calvinbui/calvin.me/issues/14) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. ❗️ Closed issue [#13](https://github.com/calvinbui/calvin.me/issues/13) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
 <!--END_SECTION:activity-->
