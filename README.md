@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225](https://github.com/Oteemo/charts/pull/225) in [Oteemo/charts](https://github.com/Oteemo/charts)
-2. ❗️ Opened issue [#733](https://github.com/anchore/anchore-engine/issues/733) in [anchore/anchore-engine](https://github.com/anchore/anchore-engine)
-3. ❗️ Opened issue [#15](https://github.com/calvinbui/calvin.me/issues/15) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Opened issue [#14](https://github.com/calvinbui/calvin.me/issues/14) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. ❗️ Closed issue [#13](https://github.com/calvinbui/calvin.me/issues/13) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. ❌ Closed PR [#2733](https://github.com/google/cadvisor/pull/2733) in [google/cadvisor](https://github.com/google/cadvisor)
+2. 🗣 Commented on [#2733](https://github.com/google/cadvisor/issues/2733) in [google/cadvisor](https://github.com/google/cadvisor)
+3. 🗣 Commented on [#223](https://github.com/Oteemo/charts/issues/223) in [Oteemo/charts](https://github.com/Oteemo/charts)
+4. 💪 Opened PR [#225](https://github.com/Oteemo/charts/pull/225) in [Oteemo/charts](https://github.com/Oteemo/charts)
+5. ❗️ Opened issue [#733](https://github.com/anchore/anchore-engine/issues/733) in [anchore/anchore-engine](https://github.com/anchore/anchore-engine)
 <!--END_SECTION:activity-->
