@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2733](https://github.com/google/cadvisor/pull/2733) in [google/cadvisor](https://github.com/google/cadvisor)
-2. 🗣 Commented on [#2733](https://github.com/google/cadvisor/issues/2733) in [google/cadvisor](https://github.com/google/cadvisor)
-3. 🗣 Commented on [#223](https://github.com/Oteemo/charts/issues/223) in [Oteemo/charts](https://github.com/Oteemo/charts)
-4. 💪 Opened PR [#225](https://github.com/Oteemo/charts/pull/225) in [Oteemo/charts](https://github.com/Oteemo/charts)
-5. ❗️ Opened issue [#733](https://github.com/anchore/anchore-engine/issues/733) in [anchore/anchore-engine](https://github.com/anchore/anchore-engine)
+1. ❗️ Closed issue [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
+2. 🗣 Commented on [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
+3. ❌ Closed PR [#2733](https://github.com/google/cadvisor/pull/2733) in [google/cadvisor](https://github.com/google/cadvisor)
+4. 🗣 Commented on [#2733](https://github.com/google/cadvisor/issues/2733) in [google/cadvisor](https://github.com/google/cadvisor)
+5. 🗣 Commented on [#223](https://github.com/Oteemo/charts/issues/223) in [Oteemo/charts](https://github.com/Oteemo/charts)
 <!--END_SECTION:activity-->
