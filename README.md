@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1716](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1716) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-2. 💪 Opened PR [#1716](https://github.com/kubernetes-sigs/aws-load-balancer-controller/pull/1716) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-3. ❗️ Closed issue [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
-4. 🗣 Commented on [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
-5. ❌ Closed PR [#2733](https://github.com/google/cadvisor/pull/2733) in [google/cadvisor](https://github.com/google/cadvisor)
+1. ❗️ Opened issue [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+2. 🗣 Commented on [#1716](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1716) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+3. 💪 Opened PR [#1716](https://github.com/kubernetes-sigs/aws-load-balancer-controller/pull/1716) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+4. ❗️ Closed issue [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
+5. 🗣 Commented on [#237](https://github.com/ivx/yet-another-cloudwatch-exporter/issues/237) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
 <!--END_SECTION:activity-->
