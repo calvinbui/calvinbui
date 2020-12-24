@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4389](https://github.com/opnsense/core/issues/4389) in [opnsense/core](https://github.com/opnsense/core)
-2. 💪 Opened PR [#512](https://github.com/prometheus-community/helm-charts/pull/512) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-3. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-4. ❗️ Opened issue [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-5. 🗣 Commented on [#1716](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1716) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+1. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+2. 🗣 Commented on [#4389](https://github.com/opnsense/core/issues/4389) in [opnsense/core](https://github.com/opnsense/core)
+3. 💪 Opened PR [#512](https://github.com/prometheus-community/helm-charts/pull/512) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+4. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+5. ❗️ Opened issue [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
 <!--END_SECTION:activity-->
