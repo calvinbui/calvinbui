@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
-2. ❗️ Opened issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-3. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-4. 🗣 Commented on [#4389](https://github.com/opnsense/core/issues/4389) in [opnsense/core](https://github.com/opnsense/core)
-5. 💪 Opened PR [#512](https://github.com/prometheus-community/helm-charts/pull/512) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+1. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+2. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+3. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
+4. ❗️ Opened issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+5. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
 <!--END_SECTION:activity-->
