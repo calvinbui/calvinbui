@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-2. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-3. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
-4. ❗️ Opened issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-5. 🗣 Commented on [#1719](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/1719) in [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+1. ❗️ Opened issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+2. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+3. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+4. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
+5. ❗️ Opened issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
 <!--END_SECTION:activity-->
