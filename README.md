@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-2. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-3. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
-4. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
-5. ❗️ Opened issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+1. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+2. ❗️ Opened issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+3. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+4. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+5. 🗣 Commented on [#755](https://github.com/containrrr/watchtower/issues/755) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
 <!--END_SECTION:activity-->
