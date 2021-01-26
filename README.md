@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-2. ❗️ Closed issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-3. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+1. ❗️ Opened issue [#151](https://github.com/zorchenhimer/MovieNight/issues/151) in [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight)
+2. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+3. ❗️ Closed issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
 4. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-5. ❗️ Opened issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+5. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
 <!--END_SECTION:activity-->
