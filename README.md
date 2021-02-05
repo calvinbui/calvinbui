@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#151](https://github.com/zorchenhimer/MovieNight/issues/151) in [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight)
-2. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-3. ❗️ Closed issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+1. ❗️ Opened issue [#216](https://github.com/sonatype-nexus-community/nancy/issues/216) in [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy)
+2. ❗️ Opened issue [#1690](https://github.com/golangci/golangci-lint/issues/1690) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+3. ❗️ Opened issue [#151](https://github.com/zorchenhimer/MovieNight/issues/151) in [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight)
 4. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
-5. 🗣 Commented on [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+5. ❗️ Closed issue [#95](https://github.com/romkatv/zsh4humans/issues/95) in [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
 <!--END_SECTION:activity-->
