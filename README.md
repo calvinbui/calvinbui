@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-2. 🗣 Commented on [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-3. ❗️ Opened issue [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-4. 🗣 Commented on [#216](https://github.com/sonatype-nexus-community/nancy/issues/216) in [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy)
-5. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+1. 💪 Opened PR [#4526](https://github.com/laurent22/joplin/pull/4526) in [laurent22/joplin](https://github.com/laurent22/joplin)
+2. ❗️ Closed issue [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+3. 🗣 Commented on [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+4. ❗️ Opened issue [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+5. 🗣 Commented on [#216](https://github.com/sonatype-nexus-community/nancy/issues/216) in [sonatype-nexus-community/nancy](https://github.com/sonatype-nexus-community/nancy)
 <!--END_SECTION:activity-->
