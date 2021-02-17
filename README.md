@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#608](https://github.com/aws/containers-roadmap/issues/608) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
-2. 💪 Opened PR [#63](https://github.com/b3vis/docker-borgmatic/pull/63) in [b3vis/docker-borgmatic](https://github.com/b3vis/docker-borgmatic)
-3. ❗️ Opened issue [#16935](https://github.com/mattermost/mattermost-server/issues/16935) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
-4. 💪 Opened PR [#4526](https://github.com/laurent22/joplin/pull/4526) in [laurent22/joplin](https://github.com/laurent22/joplin)
-5. ❗️ Closed issue [#797](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/797) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+1. 💪 Opened PR [#456](https://github.com/aws/eks-charts/pull/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+2. 💪 Opened PR [#11](https://github.com/cetic/helm-swagger-ui/pull/11) in [cetic/helm-swagger-ui](https://github.com/cetic/helm-swagger-ui)
+3. 🗣 Commented on [#608](https://github.com/aws/containers-roadmap/issues/608) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
+4. 💪 Opened PR [#63](https://github.com/b3vis/docker-borgmatic/pull/63) in [b3vis/docker-borgmatic](https://github.com/b3vis/docker-borgmatic)
+5. ❗️ Opened issue [#16935](https://github.com/mattermost/mattermost-server/issues/16935) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
 <!--END_SECTION:activity-->
