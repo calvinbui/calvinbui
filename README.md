@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1244](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1244) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-2. 💪 Opened PR [#456](https://github.com/aws/eks-charts/pull/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
-3. 💪 Opened PR [#11](https://github.com/cetic/helm-swagger-ui/pull/11) in [cetic/helm-swagger-ui](https://github.com/cetic/helm-swagger-ui)
-4. 🗣 Commented on [#608](https://github.com/aws/containers-roadmap/issues/608) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
-5. 💪 Opened PR [#63](https://github.com/b3vis/docker-borgmatic/pull/63) in [b3vis/docker-borgmatic](https://github.com/b3vis/docker-borgmatic)
+1. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+2. 🗣 Commented on [#1244](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1244) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+3. 💪 Opened PR [#456](https://github.com/aws/eks-charts/pull/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+4. 💪 Opened PR [#11](https://github.com/cetic/helm-swagger-ui/pull/11) in [cetic/helm-swagger-ui](https://github.com/cetic/helm-swagger-ui)
+5. 🗣 Commented on [#608](https://github.com/aws/containers-roadmap/issues/608) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
 <!--END_SECTION:activity-->
