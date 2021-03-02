@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15855](https://github.com/vercel/next.js/issues/15855) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+1. 🗣 Commented on [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
+2. 🗣 Commented on [#15855](https://github.com/vercel/next.js/issues/15855) in [vercel/next.js](https://github.com/vercel/next.js)
 3. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
-4. 🗣 Commented on [#1244](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1244) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-5. 💪 Opened PR [#456](https://github.com/aws/eks-charts/pull/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+4. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+5. 🗣 Commented on [#1244](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1244) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 <!--END_SECTION:activity-->
