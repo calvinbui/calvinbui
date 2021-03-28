@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Mar 28, 2021 - [Samsung Galaxy S7+ Keyboard Case Mod](https://calvin.me/samsung-galaxy-tab-s7-plus-keyboard-case-mod)
 - Feb 7, 2021 - [How I Play Consoles on PC](https://calvin.me/how-i-play-consoles-on-pc)
 - Dec 25, 2020 - [Testing NBN 1000 Ultrafast](https://calvin.me/testing-nbn-1000-ultrafast)
 - Nov 29, 2020 - [Small Personal Rig Update](https://calvin.me/small-personal-rig-update)
 - Oct 30, 2020 - [Hyperconverging My Servers](https://calvin.me/hyperconverging-my-servers)
-- Sep 13, 2020 - [Factorio](https://calvin.me/factorio)
 
 <!-- BLOG-POST-LIST:END -->
 
