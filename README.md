@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
-2. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
-3. 🗣 Commented on [#113](https://github.com/kubernetes/cloud-provider-aws/issues/113) in [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws)
-4. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
-5. 🗣 Commented on [#151](https://github.com/zorchenhimer/MovieNight/issues/151) in [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight)
+1. ❗️ Opened issue [#230](https://github.com/sonatype-nexus-community/auditjs/issues/230) in [sonatype-nexus-community/auditjs](https://github.com/sonatype-nexus-community/auditjs)
+2. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
+3. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
+4. 🗣 Commented on [#113](https://github.com/kubernetes/cloud-provider-aws/issues/113) in [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws)
+5. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
 <!--END_SECTION:activity-->
