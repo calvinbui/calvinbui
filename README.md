@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1082](https://github.com/derailed/k9s/issues/1082) in [derailed/k9s](https://github.com/derailed/k9s)
-2. ❗️ Opened issue [#230](https://github.com/sonatype-nexus-community/auditjs/issues/230) in [sonatype-nexus-community/auditjs](https://github.com/sonatype-nexus-community/auditjs)
-3. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
-4. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
-5. 🗣 Commented on [#113](https://github.com/kubernetes/cloud-provider-aws/issues/113) in [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws)
+1. ❗️ Opened issue [#614](https://github.com/containernetworking/plugins/issues/614) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
+2. ❗️ Opened issue [#1082](https://github.com/derailed/k9s/issues/1082) in [derailed/k9s](https://github.com/derailed/k9s)
+3. ❗️ Opened issue [#230](https://github.com/sonatype-nexus-community/auditjs/issues/230) in [sonatype-nexus-community/auditjs](https://github.com/sonatype-nexus-community/auditjs)
+4. 🗣 Commented on [#30](https://github.com/linuxserver/docker-papermerge/issues/30) in [linuxserver/docker-papermerge](https://github.com/linuxserver/docker-papermerge)
+5. 🗣 Commented on [#456](https://github.com/aws/eks-charts/issues/456) in [aws/eks-charts](https://github.com/aws/eks-charts)
 <!--END_SECTION:activity-->
