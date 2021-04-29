@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. 🗣 Commented on [#1318](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1318) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-3. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-4. 💪 Opened PR [#356](https://github.com/ivx/yet-another-cloudwatch-exporter/pull/356) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
-5. ❗️ Opened issue [#614](https://github.com/containernetworking/plugins/issues/614) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
+2. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+3. 🗣 Commented on [#1318](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1318) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+4. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+5. 💪 Opened PR [#356](https://github.com/ivx/yet-another-cloudwatch-exporter/pull/356) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
 <!--END_SECTION:activity-->
