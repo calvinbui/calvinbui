@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-2. 💪 Opened PR [#356](https://github.com/ivx/yet-another-cloudwatch-exporter/pull/356) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
-3. ❗️ Opened issue [#614](https://github.com/containernetworking/plugins/issues/614) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
-4. ❗️ Opened issue [#1082](https://github.com/derailed/k9s/issues/1082) in [derailed/k9s](https://github.com/derailed/k9s)
-5. ❗️ Opened issue [#230](https://github.com/sonatype-nexus-community/auditjs/issues/230) in [sonatype-nexus-community/auditjs](https://github.com/sonatype-nexus-community/auditjs)
+1. 🗣 Commented on [#1318](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1318) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+2. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+3. 💪 Opened PR [#356](https://github.com/ivx/yet-another-cloudwatch-exporter/pull/356) in [ivx/yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter)
+4. ❗️ Opened issue [#614](https://github.com/containernetworking/plugins/issues/614) in [containernetworking/plugins](https://github.com/containernetworking/plugins)
+5. ❗️ Opened issue [#1082](https://github.com/derailed/k9s/issues/1082) in [derailed/k9s](https://github.com/derailed/k9s)
 <!--END_SECTION:activity-->
