@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-2. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+1. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+2. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
 3. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-4. 🗣 Commented on [#1318](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1318) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-5. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+4. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+5. 🗣 Commented on [#1318](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/1318) in [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
 <!--END_SECTION:activity-->
