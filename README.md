@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-2. 💪 Opened PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-3. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-4. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-5. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+1. 🎉 Merged PR [#1](https://github.com/calvinbui/dotfiles/pull/1) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+2. 🎉 Merged PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. 💪 Opened PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+4. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+5. 🗣 Commented on [#138](https://github.com/YTVanced/Vanced/issues/138) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
 <!--END_SECTION:activity-->
