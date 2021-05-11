@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
-2. 🎉 Merged PR [#1](https://github.com/calvinbui/dotfiles/pull/1) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-3. 🎉 Merged PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-4. 💪 Opened PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-5. 🗣 Commented on [#885](https://github.com/prometheus-community/helm-charts/issues/885) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+1. 🗣 Commented on [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
+2. ❗️ Opened issue [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
+3. 🎉 Merged PR [#1](https://github.com/calvinbui/dotfiles/pull/1) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+4. 🎉 Merged PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+5. 💪 Opened PR [#4](https://github.com/calvinbui/ansible-monorepo/pull/4) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 <!--END_SECTION:activity-->
