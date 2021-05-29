@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4955](https://github.com/laurent22/joplin/issues/4955) in [laurent22/joplin](https://github.com/laurent22/joplin)
-2. 🗣 Commented on [#8](https://github.com/stuckyhm/prometheus-docker-sd/issues/8) in [stuckyhm/prometheus-docker-sd](https://github.com/stuckyhm/prometheus-docker-sd)
-3. ❗️ Opened issue [#8](https://github.com/stuckyhm/prometheus-docker-sd/issues/8) in [stuckyhm/prometheus-docker-sd](https://github.com/stuckyhm/prometheus-docker-sd)
-4. 🗣 Commented on [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
-5. ❗️ Opened issue [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
+1. 🎉 Merged PR [#17](https://github.com/calvinbui/calvin.me/pull/17) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+2. ❗️ Opened issue [#4955](https://github.com/laurent22/joplin/issues/4955) in [laurent22/joplin](https://github.com/laurent22/joplin)
+3. 🗣 Commented on [#8](https://github.com/stuckyhm/prometheus-docker-sd/issues/8) in [stuckyhm/prometheus-docker-sd](https://github.com/stuckyhm/prometheus-docker-sd)
+4. ❗️ Opened issue [#8](https://github.com/stuckyhm/prometheus-docker-sd/issues/8) in [stuckyhm/prometheus-docker-sd](https://github.com/stuckyhm/prometheus-docker-sd)
+5. 🗣 Commented on [#48](https://github.com/containeroo/SyncFlaer/issues/48) in [containeroo/SyncFlaer](https://github.com/containeroo/SyncFlaer)
 <!--END_SECTION:activity-->
