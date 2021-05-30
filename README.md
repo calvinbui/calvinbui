@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/calvinbui/calvin.me/pull/18) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-2. 💪 Opened PR [#18](https://github.com/calvinbui/calvin.me/pull/18) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-3. 🎉 Merged PR [#17](https://github.com/calvinbui/calvin.me/pull/17) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Opened issue [#4955](https://github.com/laurent22/joplin/issues/4955) in [laurent22/joplin](https://github.com/laurent22/joplin)
-5. 🗣 Commented on [#8](https://github.com/stuckyhm/prometheus-docker-sd/issues/8) in [stuckyhm/prometheus-docker-sd](https://github.com/stuckyhm/prometheus-docker-sd)
+1. ❗️ Opened issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+2. ❗️ Opened issue [#19](https://github.com/calvinbui/calvin.me/issues/19) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+3. ❗️ Closed issue [#4](https://github.com/calvinbui/calvin.me/issues/4) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+4. ❗️ Closed issue [#11](https://github.com/calvinbui/calvin.me/issues/11) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. ❗️ Closed issue [#14](https://github.com/calvinbui/calvin.me/issues/14) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
 <!--END_SECTION:activity-->
