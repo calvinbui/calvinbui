@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1106](https://github.com/shlinkio/shlink/issues/1106) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
-2. ❌ Closed PR [#707](https://github.com/go-yaml/yaml/pull/707) in [go-yaml/yaml](https://github.com/go-yaml/yaml)
-3. ❗️ Opened issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Opened issue [#19](https://github.com/calvinbui/calvin.me/issues/19) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. ❗️ Closed issue [#4](https://github.com/calvinbui/calvin.me/issues/4) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. 🎉 Merged PR [#21](https://github.com/calvinbui/calvin.me/pull/21) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+2. ❗️ Opened issue [#1106](https://github.com/shlinkio/shlink/issues/1106) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
+3. ❌ Closed PR [#707](https://github.com/go-yaml/yaml/pull/707) in [go-yaml/yaml](https://github.com/go-yaml/yaml)
+4. ❗️ Opened issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. ❗️ Opened issue [#19](https://github.com/calvinbui/calvin.me/issues/19) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
 <!--END_SECTION:activity-->
