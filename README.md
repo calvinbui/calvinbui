@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/ansible-collections/community.docker/issues/156) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
-2. 🗣 Commented on [#352](https://github.com/caronc/apprise/issues/352) in [caronc/apprise](https://github.com/caronc/apprise)
-3. 💪 Opened PR [#398](https://github.com/caronc/apprise/pull/398) in [caronc/apprise](https://github.com/caronc/apprise)
-4. 🎉 Merged PR [#21](https://github.com/calvinbui/calvin.me/pull/21) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. ❗️ Opened issue [#1106](https://github.com/shlinkio/shlink/issues/1106) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
+1. ❗️ Closed issue [#156](https://github.com/ansible-collections/community.docker/issues/156) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+2. 🗣 Commented on [#156](https://github.com/ansible-collections/community.docker/issues/156) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+3. ❗️ Opened issue [#156](https://github.com/ansible-collections/community.docker/issues/156) in [ansible-collections/community.docker](https://github.com/ansible-collections/community.docker)
+4. 🗣 Commented on [#352](https://github.com/caronc/apprise/issues/352) in [caronc/apprise](https://github.com/caronc/apprise)
+5. 💪 Opened PR [#398](https://github.com/caronc/apprise/pull/398) in [caronc/apprise](https://github.com/caronc/apprise)
 <!--END_SECTION:activity-->
