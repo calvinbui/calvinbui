@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-2. ❗️ Closed issue [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-3. ❗️ Closed issue [#16](https://github.com/calvinbui/calvin.me/issues/16) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Opened issue [#2](https://github.com/calvinbui/dotfiles/issues/2) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-5. 🎉 Merged PR [#22](https://github.com/calvinbui/calvin.me/pull/22) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. ❗️ Closed issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+2. 🗣 Commented on [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+3. ❗️ Closed issue [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+4. ❗️ Closed issue [#16](https://github.com/calvinbui/calvin.me/issues/16) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. ❗️ Opened issue [#2](https://github.com/calvinbui/dotfiles/issues/2) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 <!--END_SECTION:activity-->
