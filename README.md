@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/calvinbui/homer-service-discovery/pull/1) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. ❗️ Closed issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-3. 🗣 Commented on [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. ❗️ Closed issue [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. ❗️ Closed issue [#16](https://github.com/calvinbui/calvin.me/issues/16) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. 🎉 Merged PR [#23](https://github.com/calvinbui/calvin.me/pull/23) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+2. 💪 Opened PR [#1](https://github.com/calvinbui/homer-service-discovery/pull/1) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. ❗️ Closed issue [#20](https://github.com/calvinbui/calvin.me/issues/20) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+4. 🗣 Commented on [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. ❗️ Closed issue [#3](https://github.com/calvinbui/calvin.me/issues/3) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
 <!--END_SECTION:activity-->
