@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jul 27, 2021 - [Testing NBN 250 Superfast](https://calvin.me/testing-nbn-250-superfast)
 - May 30, 2021 - [More Open Source: Build, Hosting and Analytics](https://calvin.me/making-this-site-more-open-source)
 - Apr 28, 2021 - [DisplayPort 1.4 KVM Alternative](https://calvin.me/displayport-1.4-kvm-alternative)
 - Mar 28, 2021 - [Samsung Galaxy S7+ Keyboard Case Mod](https://calvin.me/samsung-galaxy-tab-s7-plus-keyboard-case-mod)
 - Feb 7, 2021 - [How I Play Consoles on PC](https://calvin.me/how-i-play-consoles-on-pc)
-- Dec 25, 2020 - [Testing NBN 1000 Ultrafast](https://calvin.me/testing-nbn-1000-ultrafast)
 
 <!-- BLOG-POST-LIST:END -->
 
