@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/calvinbui/homer-service-discovery/pull/2) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 🎉 Merged PR [#1](https://github.com/calvinbui/homer-service-discovery/pull/1) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. 🗣 Commented on [#1004](https://github.com/containrrr/watchtower/issues/1004) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
+1. 🎉 Merged PR [#2](https://github.com/calvinbui/homer-service-discovery/pull/2) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 💪 Opened PR [#2](https://github.com/calvinbui/homer-service-discovery/pull/2) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🎉 Merged PR [#1](https://github.com/calvinbui/homer-service-discovery/pull/1) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 4. 🗣 Commented on [#1004](https://github.com/containrrr/watchtower/issues/1004) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
-5. 🎉 Merged PR [#23](https://github.com/calvinbui/calvin.me/pull/23) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. 🗣 Commented on [#1004](https://github.com/containrrr/watchtower/issues/1004) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
 <!--END_SECTION:activity-->
