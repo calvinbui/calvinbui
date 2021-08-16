@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/calvinbui/homer-service-discovery/pull/5) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 💪 Opened PR [#5](https://github.com/calvinbui/homer-service-discovery/pull/5) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. 🎉 Merged PR [#3](https://github.com/calvinbui/prometheus-traefik-sd/pull/3) in [calvinbui/prometheus-traefik-sd](https://github.com/calvinbui/prometheus-traefik-sd)
-4. 💪 Opened PR [#3](https://github.com/calvinbui/prometheus-traefik-sd/pull/3) in [calvinbui/prometheus-traefik-sd](https://github.com/calvinbui/prometheus-traefik-sd)
-5. 🎉 Merged PR [#2](https://github.com/calvinbui/prometheus-traefik-sd/pull/2) in [calvinbui/prometheus-traefik-sd](https://github.com/calvinbui/prometheus-traefik-sd)
+1. 🎉 Merged PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 💪 Opened PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🎉 Merged PR [#5](https://github.com/calvinbui/homer-service-discovery/pull/5) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+4. 💪 Opened PR [#5](https://github.com/calvinbui/homer-service-discovery/pull/5) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 🎉 Merged PR [#3](https://github.com/calvinbui/prometheus-traefik-sd/pull/3) in [calvinbui/prometheus-traefik-sd](https://github.com/calvinbui/prometheus-traefik-sd)
 <!--END_SECTION:activity-->
