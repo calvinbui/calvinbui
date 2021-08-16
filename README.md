@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Aug 16, 2021 - [Prometheus Traefik Service Discovery](https://calvin.me/prometheus-traefik-service-discovery)
 - Aug 7, 2021 - [Homer Service Discovery](https://calvin.me/homer-service-discovery)
 - Jul 27, 2021 - [Testing NBN 250 Superfast](https://calvin.me/testing-nbn-250-superfast)
 - May 30, 2021 - [More Open Source: Build, Hosting and Analytics](https://calvin.me/making-this-site-more-open-source)
 - Apr 28, 2021 - [DisplayPort 1.4 KVM Alternative](https://calvin.me/displayport-1.4-kvm-alternative)
-- Mar 28, 2021 - [Samsung Galaxy S7+ Keyboard Case Mod](https://calvin.me/samsung-galaxy-tab-s7-plus-keyboard-case-mod)
 
 <!-- BLOG-POST-LIST:END -->
 
