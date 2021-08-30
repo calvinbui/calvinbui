@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/calvinbui/dotfiles/pull/3) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-2. 🗣 Commented on [#52](https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/issues/52) in [bradcfisher/OctoPrint-ExcludeRegionPlugin](https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin)
-3. 🎉 Merged PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 💪 Opened PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-5. 🎉 Merged PR [#5](https://github.com/calvinbui/homer-service-discovery/pull/5) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. ❗️ Opened issue [#32](https://github.com/ribbybibby/s3_exporter/issues/32) in [ribbybibby/s3_exporter](https://github.com/ribbybibby/s3_exporter)
+2. 💪 Opened PR [#3](https://github.com/calvinbui/dotfiles/pull/3) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+3. 🗣 Commented on [#52](https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/issues/52) in [bradcfisher/OctoPrint-ExcludeRegionPlugin](https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin)
+4. 🎉 Merged PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 💪 Opened PR [#6](https://github.com/calvinbui/homer-service-discovery/pull/6) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
