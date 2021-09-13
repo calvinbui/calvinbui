@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-2. ❗️ Closed issue [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-3. ❗️ Opened issue [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-4. ❗️ Opened issue [#7](https://github.com/calvinbui/homer-service-discovery/issues/7) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-5. 🎉 Merged PR [#3](https://github.com/calvinbui/dotfiles/pull/3) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. ❗️ Opened issue [#2](https://github.com/cheesestringer/property-seeker/issues/2) in [cheesestringer/property-seeker](https://github.com/cheesestringer/property-seeker)
+2. 🗣 Commented on [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+3. ❗️ Closed issue [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+4. ❗️ Opened issue [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+5. ❗️ Opened issue [#7](https://github.com/calvinbui/homer-service-discovery/issues/7) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
