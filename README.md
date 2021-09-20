@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#33](https://github.com/gencer/cache-buildkite-plugin/issues/33) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-2. ❗️ Opened issue [#33](https://github.com/gencer/cache-buildkite-plugin/issues/33) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-3. ❗️ Opened issue [#2](https://github.com/cheesestringer/property-seeker/issues/2) in [cheesestringer/property-seeker](https://github.com/cheesestringer/property-seeker)
-4. 🗣 Commented on [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-5. ❗️ Closed issue [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
+2. 🗣 Commented on [#33](https://github.com/gencer/cache-buildkite-plugin/issues/33) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+3. ❗️ Opened issue [#33](https://github.com/gencer/cache-buildkite-plugin/issues/33) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+4. ❗️ Opened issue [#2](https://github.com/cheesestringer/property-seeker/issues/2) in [cheesestringer/property-seeker](https://github.com/cheesestringer/property-seeker)
+5. 🗣 Commented on [#904](https://github.com/buildkite/elastic-ci-stack-for-aws/issues/904) in [buildkite/elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
 <!--END_SECTION:activity-->
