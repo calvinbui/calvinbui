@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Oct 4, 2021 - [Super Fast Charging](https://calvin.me/super-fast-charging)
 - Sep 8, 2021 - [Cross-Platform Dotfiles](https://calvin.me/cross-platform-dotfiles)
 - Aug 23, 2021 - [Chicory: A Colorful Tale](https://calvin.me/chicory)
 - Aug 16, 2021 - [Prometheus Traefik Service Discovery](https://calvin.me/prometheus-traefik-service-discovery)
 - Aug 7, 2021 - [Homer Service Discovery](https://calvin.me/homer-service-discovery)
-- Jul 27, 2021 - [Testing NBN 250 Superfast](https://calvin.me/testing-nbn-250-superfast)
 
 <!-- BLOG-POST-LIST:END -->
 
