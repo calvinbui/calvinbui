@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/calvinbui/calvin.me/issues/26) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-2. 🎉 Merged PR [#28](https://github.com/calvinbui/calvin.me/pull/28) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-3. 💪 Opened PR [#28](https://github.com/calvinbui/calvin.me/pull/28) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. 🎉 Merged PR [#27](https://github.com/calvinbui/calvin.me/pull/27) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-5. 💪 Opened PR [#27](https://github.com/calvinbui/calvin.me/pull/27) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. 🎉 Merged PR [#7](https://github.com/calvinbui/ansible-monorepo/pull/7) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+2. 💪 Opened PR [#7](https://github.com/calvinbui/ansible-monorepo/pull/7) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. 🎉 Merged PR [#5](https://github.com/calvinbui/ansible-monorepo/pull/5) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+4. 🎉 Merged PR [#6](https://github.com/calvinbui/ansible-monorepo/pull/6) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+5. 💪 Opened PR [#6](https://github.com/calvinbui/ansible-monorepo/pull/6) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 <!--END_SECTION:activity-->
