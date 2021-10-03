@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/calvinbui/ansible-monorepo/pull/5) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-2. ❗️ Opened issue [#109](https://github.com/linuxserver/docker-bookstack/issues/109) in [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
-3. ❗️ Opened issue [#26](https://github.com/calvinbui/calvin.me/issues/26) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
-4. 🗣 Commented on [#1634](https://github.com/aws/amazon-vpc-cni-k8s/issues/1634) in [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
-5. ❗️ Opened issue [#1634](https://github.com/aws/amazon-vpc-cni-k8s/issues/1634) in [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
+1. 🗣 Commented on [#29](https://github.com/crazy-max/docker-fail2ban/issues/29) in [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban)
+2. 💪 Opened PR [#5](https://github.com/calvinbui/ansible-monorepo/pull/5) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. ❗️ Opened issue [#109](https://github.com/linuxserver/docker-bookstack/issues/109) in [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
+4. ❗️ Opened issue [#26](https://github.com/calvinbui/calvin.me/issues/26) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+5. 🗣 Commented on [#1634](https://github.com/aws/amazon-vpc-cni-k8s/issues/1634) in [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
 <!--END_SECTION:activity-->
