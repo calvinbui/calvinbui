@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#192](https://github.com/etesync/android/issues/192) in [etesync/android](https://github.com/etesync/android)
-2. ❗️ Opened issue [#90](https://github.com/sl1pm4t/k2tf/issues/90) in [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf)
-3. 🗣 Commented on [#29](https://github.com/crazy-max/docker-fail2ban/issues/29) in [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban)
+1. ❗️ Opened issue [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. ❗️ Opened issue [#192](https://github.com/etesync/android/issues/192) in [etesync/android](https://github.com/etesync/android)
+3. ❗️ Opened issue [#90](https://github.com/sl1pm4t/k2tf/issues/90) in [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf)
 4. 🗣 Commented on [#29](https://github.com/crazy-max/docker-fail2ban/issues/29) in [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban)
-5. 🎉 Merged PR [#7](https://github.com/calvinbui/ansible-monorepo/pull/7) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+5. 🗣 Commented on [#29](https://github.com/crazy-max/docker-fail2ban/issues/29) in [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban)
 <!--END_SECTION:activity-->
