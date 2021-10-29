@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-2. 🗣 Commented on [#117](https://github.com/buildkite/buildkite-agent-metrics/issues/117) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
-3. 🗣 Commented on [#51](https://github.com/buildkite/buildkite-agent-metrics/issues/51) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
-4. ❗️ Opened issue [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-5. ❗️ Opened issue [#192](https://github.com/etesync/android/issues/192) in [etesync/android](https://github.com/etesync/android)
+1. 🗣 Commented on [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
+2. ❗️ Opened issue [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
+3. 🗣 Commented on [#117](https://github.com/buildkite/buildkite-agent-metrics/issues/117) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
+4. 🗣 Commented on [#51](https://github.com/buildkite/buildkite-agent-metrics/issues/51) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
+5. ❗️ Opened issue [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 <!--END_SECTION:activity-->
