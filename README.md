@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-2. 🗣 Commented on [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-3. ❗️ Opened issue [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-4. 🗣 Commented on [#117](https://github.com/buildkite/buildkite-agent-metrics/issues/117) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
-5. 🗣 Commented on [#51](https://github.com/buildkite/buildkite-agent-metrics/issues/51) in [buildkite/buildkite-agent-metrics](https://github.com/buildkite/buildkite-agent-metrics)
+1. 🗣 Commented on [#88](https://github.com/buildkite/charts/issues/88) in [buildkite/charts](https://github.com/buildkite/charts)
+2. 💪 Opened PR [#88](https://github.com/buildkite/charts/pull/88) in [buildkite/charts](https://github.com/buildkite/charts)
+3. 🗣 Commented on [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+4. 🗣 Commented on [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
+5. ❗️ Opened issue [#8](https://github.com/mchangrh/sb-mirror/issues/8) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
 <!--END_SECTION:activity-->
