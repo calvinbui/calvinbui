@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#88](https://github.com/buildkite/charts/pull/88) in [buildkite/charts](https://github.com/buildkite/charts)
-2. ❗️ Opened issue [#546](https://github.com/ONLYOFFICE/onlyoffice-nextcloud/issues/546) in [ONLYOFFICE/onlyoffice-nextcloud](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
-3. 🗣 Commented on [#88](https://github.com/buildkite/charts/issues/88) in [buildkite/charts](https://github.com/buildkite/charts)
-4. 💪 Opened PR [#88](https://github.com/buildkite/charts/pull/88) in [buildkite/charts](https://github.com/buildkite/charts)
-5. 🗣 Commented on [#267](https://github.com/dgtlmoon/changedetection.io/issues/267) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+1. ❗️ Opened issue [#1508](https://github.com/ONLYOFFICE/DocumentServer/issues/1508) in [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
+2. ❌ Closed PR [#88](https://github.com/buildkite/charts/pull/88) in [buildkite/charts](https://github.com/buildkite/charts)
+3. ❗️ Opened issue [#546](https://github.com/ONLYOFFICE/onlyoffice-nextcloud/issues/546) in [ONLYOFFICE/onlyoffice-nextcloud](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
+4. 🗣 Commented on [#88](https://github.com/buildkite/charts/issues/88) in [buildkite/charts](https://github.com/buildkite/charts)
+5. 💪 Opened PR [#88](https://github.com/buildkite/charts/pull/88) in [buildkite/charts](https://github.com/buildkite/charts)
 <!--END_SECTION:activity-->
