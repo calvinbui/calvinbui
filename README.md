@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7939](https://github.com/kubernetes/ingress-nginx/issues/7939) in [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
-2. ❗️ Opened issue [#186](https://github.com/szTheory/exifcleaner/issues/186) in [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner)
-3. 🗣 Commented on [#473](https://github.com/shlinkio/shlink/issues/473) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
+1. 🗣 Commented on [#5754](https://github.com/laurent22/joplin/issues/5754) in [laurent22/joplin](https://github.com/laurent22/joplin)
+2. 🗣 Commented on [#7939](https://github.com/kubernetes/ingress-nginx/issues/7939) in [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+3. ❗️ Opened issue [#186](https://github.com/szTheory/exifcleaner/issues/186) in [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner)
 4. 🗣 Commented on [#473](https://github.com/shlinkio/shlink/issues/473) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
-5. ❗️ Opened issue [#1508](https://github.com/ONLYOFFICE/DocumentServer/issues/1508) in [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
+5. 🗣 Commented on [#473](https://github.com/shlinkio/shlink/issues/473) in [shlinkio/shlink](https://github.com/shlinkio/shlink)
 <!--END_SECTION:activity-->
