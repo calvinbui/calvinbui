@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5820](https://github.com/laurent22/joplin/issues/5820) in [laurent22/joplin](https://github.com/laurent22/joplin)
-2. ❗️ Opened issue [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-3. 🗣 Commented on [#2680](https://github.com/authelia/authelia/issues/2680) in [authelia/authelia](https://github.com/authelia/authelia)
-4. 🗣 Commented on [#5754](https://github.com/laurent22/joplin/issues/5754) in [laurent22/joplin](https://github.com/laurent22/joplin)
-5. 🗣 Commented on [#7939](https://github.com/kubernetes/ingress-nginx/issues/7939) in [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+1. 🗣 Commented on [#1817](https://github.com/falcosecurity/falco/issues/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+2. 💪 Opened PR [#1817](https://github.com/falcosecurity/falco/pull/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. 🗣 Commented on [#5820](https://github.com/laurent22/joplin/issues/5820) in [laurent22/joplin](https://github.com/laurent22/joplin)
+4. ❗️ Opened issue [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
+5. 🗣 Commented on [#2680](https://github.com/authelia/authelia/issues/2680) in [authelia/authelia](https://github.com/authelia/authelia)
 <!--END_SECTION:activity-->
