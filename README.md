@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1817](https://github.com/falcosecurity/falco/issues/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-2. 💪 Opened PR [#1817](https://github.com/falcosecurity/falco/pull/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. 🗣 Commented on [#5820](https://github.com/laurent22/joplin/issues/5820) in [laurent22/joplin](https://github.com/laurent22/joplin)
-4. ❗️ Opened issue [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-5. 🗣 Commented on [#2680](https://github.com/authelia/authelia/issues/2680) in [authelia/authelia](https://github.com/authelia/authelia)
+1. 🗣 Commented on [#89](https://github.com/buildkite/charts/issues/89) in [buildkite/charts](https://github.com/buildkite/charts)
+2. 🗣 Commented on [#1817](https://github.com/falcosecurity/falco/issues/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+3. 💪 Opened PR [#1817](https://github.com/falcosecurity/falco/pull/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. 🗣 Commented on [#5820](https://github.com/laurent22/joplin/issues/5820) in [laurent22/joplin](https://github.com/laurent22/joplin)
+5. ❗️ Opened issue [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
 <!--END_SECTION:activity-->
