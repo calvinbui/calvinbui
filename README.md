@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#331](https://github.com/dgtlmoon/changedetection.io/pull/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-2. ❗️ Opened issue [#102](https://github.com/lachie83/k8s-helm/issues/102) in [lachie83/k8s-helm](https://github.com/lachie83/k8s-helm)
-3. 🗣 Commented on [#89](https://github.com/buildkite/charts/issues/89) in [buildkite/charts](https://github.com/buildkite/charts)
-4. 🗣 Commented on [#1817](https://github.com/falcosecurity/falco/issues/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-5. 💪 Opened PR [#1817](https://github.com/falcosecurity/falco/pull/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+1. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. 💪 Opened PR [#331](https://github.com/dgtlmoon/changedetection.io/pull/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+3. ❗️ Opened issue [#102](https://github.com/lachie83/k8s-helm/issues/102) in [lachie83/k8s-helm](https://github.com/lachie83/k8s-helm)
+4. 🗣 Commented on [#89](https://github.com/buildkite/charts/issues/89) in [buildkite/charts](https://github.com/buildkite/charts)
+5. 🗣 Commented on [#1817](https://github.com/falcosecurity/falco/issues/1817) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
 <!--END_SECTION:activity-->
