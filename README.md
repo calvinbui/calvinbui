@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-2. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-3. 💪 Opened PR [#331](https://github.com/dgtlmoon/changedetection.io/pull/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-4. ❗️ Opened issue [#102](https://github.com/lachie83/k8s-helm/issues/102) in [lachie83/k8s-helm](https://github.com/lachie83/k8s-helm)
-5. 🗣 Commented on [#89](https://github.com/buildkite/charts/issues/89) in [buildkite/charts](https://github.com/buildkite/charts)
+1. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 🎉 Merged PR [#8](https://github.com/calvinbui/homer-service-discovery/pull/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+4. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+5. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 <!--END_SECTION:activity-->
