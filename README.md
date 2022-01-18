@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 🎉 Merged PR [#8](https://github.com/calvinbui/homer-service-discovery/pull/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+1. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🎉 Merged PR [#8](https://github.com/calvinbui/homer-service-discovery/pull/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+4. 🗣 Commented on [#8](https://github.com/calvinbui/homer-service-discovery/issues/8) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 5. 🗣 Commented on [#331](https://github.com/dgtlmoon/changedetection.io/issues/331) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 <!--END_SECTION:activity-->
