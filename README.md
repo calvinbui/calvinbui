@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+1. ❗️ Closed issue [#102](https://github.com/lachie83/k8s-helm/issues/102) in [lachie83/k8s-helm](https://github.com/lachie83/k8s-helm)
 2. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-3. ❗️ Opened issue [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-4. ❗️ Opened issue [#201](https://github.com/litmuschaos/litmus-helm/issues/201) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-5. 🎉 Merged PR [#8](https://github.com/calvinbui/ansible-monorepo/pull/8) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+4. ❗️ Opened issue [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+5. ❗️ Opened issue [#201](https://github.com/litmuschaos/litmus-helm/issues/201) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
 <!--END_SECTION:activity-->
