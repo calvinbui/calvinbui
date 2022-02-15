@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jan 21, 2022 - [Daikin Airbase Across VLANs](https://calvin.me/daikin-airbase-vlans-opnsense)
+- Dec 8, 2021 - [Quzao Sama I&#39;m Computer Case Cooling](https://calvin.me/quzao-sama-im-cooling)
+- Nov 24, 2021 - [3D Printer Upgrades Galore](https://calvin.me/3d-printer-upgrades-galore)
 - Oct 4, 2021 - [Super Fast Charging](https://calvin.me/super-fast-charging)
 - Sep 8, 2021 - [Cross-Platform Dotfiles](https://calvin.me/cross-platform-dotfiles)
-- Aug 23, 2021 - [Chicory: A Colorful Tale](https://calvin.me/chicory)
-- Aug 16, 2021 - [Prometheus Traefik Service Discovery](https://calvin.me/prometheus-traefik-service-discovery)
-- Aug 7, 2021 - [Homer Service Discovery](https://calvin.me/homer-service-discovery)
 
 <!-- BLOG-POST-LIST:END -->
 
