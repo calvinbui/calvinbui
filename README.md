@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
-2. 🗣 Commented on [#186](https://github.com/szTheory/exifcleaner/issues/186) in [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner)
-3. ❗️ Closed issue [#109](https://github.com/linuxserver/docker-bookstack/issues/109) in [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
-4. ❗️ Closed issue [#2](https://github.com/calvinbui/dotfiles/issues/2) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-5. ❗️ Closed issue [#19](https://github.com/calvinbui/calvin.me/issues/19) in [calvinbui/calvin.me](https://github.com/calvinbui/calvin.me)
+1. 💪 Opened PR [#203](https://github.com/litmuschaos/litmus-helm/pull/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+2. 🗣 Commented on [#10](https://github.com/mchangrh/sb-mirror/issues/10) in [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror)
+3. 🗣 Commented on [#186](https://github.com/szTheory/exifcleaner/issues/186) in [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner)
+4. ❗️ Closed issue [#109](https://github.com/linuxserver/docker-bookstack/issues/109) in [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack)
+5. ❗️ Closed issue [#2](https://github.com/calvinbui/dotfiles/issues/2) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 <!--END_SECTION:activity-->
