@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Mar 4, 2022 - [Juniper EX3300-48P](https://calvin.me/juniper-ex3300-48p)
 - Feb 20, 2022 - [Pi Clock](https://calvin.me/pi-clock)
 - Jan 21, 2022 - [Daikin Airbase Across VLANs](https://calvin.me/daikin-airbase-vlans-opnsense)
 - Dec 8, 2021 - [Quzao Sama I&#39;m Computer Case Cooling](https://calvin.me/quzao-sama-im-cooling)
 - Nov 24, 2021 - [3D Printer Upgrades Galore](https://calvin.me/3d-printer-upgrades-galore)
-- Oct 4, 2021 - [Super Fast Charging](https://calvin.me/super-fast-charging)
 
 <!-- BLOG-POST-LIST:END -->
 
