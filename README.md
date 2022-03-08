@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/calvinbui/homer-service-discovery/issues/9) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. ❌ Closed PR [#203](https://github.com/litmuschaos/litmus-helm/pull/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-3. 🗣 Commented on [#203](https://github.com/litmuschaos/litmus-helm/issues/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-4. 💪 Opened PR [#205](https://github.com/litmuschaos/litmus-helm/pull/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-5. 💪 Opened PR [#203](https://github.com/litmuschaos/litmus-helm/pull/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+1. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+2. 🗣 Commented on [#9](https://github.com/calvinbui/homer-service-discovery/issues/9) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. ❌ Closed PR [#203](https://github.com/litmuschaos/litmus-helm/pull/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+4. 🗣 Commented on [#203](https://github.com/litmuschaos/litmus-helm/issues/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+5. 💪 Opened PR [#205](https://github.com/litmuschaos/litmus-helm/pull/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
 <!--END_SECTION:activity-->
