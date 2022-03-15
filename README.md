@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-2. ❗️ Opened issue [#425](https://github.com/bus-stop/x-terminal/issues/425) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
-3. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-4. 🗣 Commented on [#9](https://github.com/calvinbui/homer-service-discovery/issues/9) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-5. ❌ Closed PR [#203](https://github.com/litmuschaos/litmus-helm/pull/203) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+1. 🗣 Commented on [#1862](https://github.com/prometheus-community/helm-charts/issues/1862) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+2. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+3. ❗️ Opened issue [#425](https://github.com/bus-stop/x-terminal/issues/425) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
+4. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+5. 🗣 Commented on [#9](https://github.com/calvinbui/homer-service-discovery/issues/9) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
