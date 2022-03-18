@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
-2. 🗣 Commented on [#1936](https://github.com/falcosecurity/falco/issues/1936) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
-3. 🗣 Commented on [#1862](https://github.com/prometheus-community/helm-charts/issues/1862) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-4. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-5. ❗️ Opened issue [#425](https://github.com/bus-stop/x-terminal/issues/425) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
+1. 🗣 Commented on [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
+2. ❗️ Opened issue [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
+3. 🗣 Commented on [#1936](https://github.com/falcosecurity/falco/issues/1936) in [falcosecurity/falco](https://github.com/falcosecurity/falco)
+4. 🗣 Commented on [#1862](https://github.com/prometheus-community/helm-charts/issues/1862) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+5. 🗣 Commented on [#205](https://github.com/litmuschaos/litmus-helm/issues/205) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
 <!--END_SECTION:activity-->
