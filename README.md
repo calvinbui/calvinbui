@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2058](https://github.com/go-redis/redis/issues/2058) in [go-redis/redis](https://github.com/go-redis/redis)
-2. 🗣 Commented on [#2020](https://github.com/go-redis/redis/issues/2020) in [go-redis/redis](https://github.com/go-redis/redis)
-3. ❗️ Closed issue [#201](https://github.com/litmuschaos/litmus-helm/issues/201) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
-4. ❗️ Closed issue [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
-5. 🗣 Commented on [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
+1. ❗️ Opened issue [#230](https://github.com/LibreTranslate/LibreTranslate/issues/230) in [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+2. ❗️ Opened issue [#2058](https://github.com/go-redis/redis/issues/2058) in [go-redis/redis](https://github.com/go-redis/redis)
+3. 🗣 Commented on [#2020](https://github.com/go-redis/redis/issues/2020) in [go-redis/redis](https://github.com/go-redis/redis)
+4. ❗️ Closed issue [#201](https://github.com/litmuschaos/litmus-helm/issues/201) in [litmuschaos/litmus-helm](https://github.com/litmuschaos/litmus-helm)
+5. ❗️ Closed issue [#430](https://github.com/bus-stop/x-terminal/issues/430) in [bus-stop/x-terminal](https://github.com/bus-stop/x-terminal)
 <!--END_SECTION:activity-->
