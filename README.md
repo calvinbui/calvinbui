@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/AnalogJ/scrutiny/issues/282) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-2. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-3. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 🗣 Commented on [#3066](https://github.com/google/cadvisor/issues/3066) in [google/cadvisor](https://github.com/google/cadvisor)
-5. 🗣 Commented on [#322](https://github.com/fuatakgun/eufy_security/issues/322) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
+1. 🗣 Commented on [#281](https://github.com/bpatrik/pigallery2/issues/281) in [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2)
+2. 🗣 Commented on [#282](https://github.com/AnalogJ/scrutiny/issues/282) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+3. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
+4. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 🗣 Commented on [#3066](https://github.com/google/cadvisor/issues/3066) in [google/cadvisor](https://github.com/google/cadvisor)
 <!--END_SECTION:activity-->
