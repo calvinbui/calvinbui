@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jun 10, 2022 - [Designing Taller Sofa Feet](https://calvin.me/designing-taller-sofa-feet)
 - May 26, 2022 - [Troubleshooting Plex with OPNsense](https://calvin.me/plex-with-dns-over-tls)
 - Apr 29, 2022 - [Fractal Design Meshify 2 XL Server Case](https://calvin.me/fractal-design-meshify-2-xl-server-case)
 - Mar 4, 2022 - [Juniper EX3300-48P](https://calvin.me/juniper-ex3300-48p)
 - Feb 20, 2022 - [Pi Clock](https://calvin.me/pi-clock)
-- Jan 21, 2022 - [Daikin Airbase Across VLANs](https://calvin.me/daikin-airbase-vlans-opnsense)
 
 <!-- BLOG-POST-LIST:END -->
 
