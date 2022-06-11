@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 🗣 Commented on [#281](https://github.com/bpatrik/pigallery2/issues/281) in [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2)
-3. 🗣 Commented on [#282](https://github.com/AnalogJ/scrutiny/issues/282) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-4. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
-5. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🗣 Commented on [#281](https://github.com/bpatrik/pigallery2/issues/281) in [bpatrik/pigallery2](https://github.com/bpatrik/pigallery2)
+4. 🗣 Commented on [#282](https://github.com/AnalogJ/scrutiny/issues/282) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+5. 🗣 Commented on [#46](https://github.com/gencer/cache-buildkite-plugin/issues/46) in [gencer/cache-buildkite-plugin](https://github.com/gencer/cache-buildkite-plugin)
 <!--END_SECTION:activity-->
