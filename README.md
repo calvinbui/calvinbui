@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 💪 Opened PR [#11](https://github.com/calvinbui/homer-service-discovery/pull/11) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 🎉 Merged PR [#10](https://github.com/calvinbui/homer-service-discovery/pull/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 3. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
 4. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#10](https://github.com/calvinbui/homer-service-discovery/issues/10) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 🗣 Commented on [#52344](https://github.com/home-assistant/core/issues/52344) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
