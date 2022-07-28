@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jul 28, 2022 - [Kubernetes Replica Count Manager](https://calvin.me/kubernetes-replica-count-manager)
 - Jun 10, 2022 - [Designing Taller Sofa Feet](https://calvin.me/designing-taller-sofa-feet)
 - May 26, 2022 - [Troubleshooting Plex with OPNsense](https://calvin.me/plex-with-dns-over-tls)
 - Apr 29, 2022 - [Fractal Design Meshify 2 XL Server Case](https://calvin.me/fractal-design-meshify-2-xl-server-case)
 - Mar 4, 2022 - [Juniper EX3300-48P](https://calvin.me/juniper-ex3300-48p)
-- Feb 20, 2022 - [Pi Clock](https://calvin.me/pi-clock)
 
 <!-- BLOG-POST-LIST:END -->
 
