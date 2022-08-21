@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#281](https://github.com/GoogleCloudPlatform/cloud-sdk-docker/issues/281) in [GoogleCloudPlatform/cloud-sdk-docker](https://github.com/GoogleCloudPlatform/cloud-sdk-docker)
-2. ❗️ Opened issue [#20876](https://github.com/go-gitea/gitea/issues/20876) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. 🎉 Merged PR [#12](https://github.com/calvinbui/ansible-monorepo/pull/12) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-4. 🎉 Merged PR [#10](https://github.com/calvinbui/ansible-monorepo/pull/10) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-5. 🎉 Merged PR [#11](https://github.com/calvinbui/ansible-monorepo/pull/11) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+1. ❌ Closed PR [#32](https://github.com/calvinbui/ansible-monorepo/pull/32) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+2. ❌ Closed PR [#31](https://github.com/calvinbui/ansible-monorepo/pull/31) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. ❌ Closed PR [#30](https://github.com/calvinbui/ansible-monorepo/pull/30) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+4. ❌ Closed PR [#29](https://github.com/calvinbui/ansible-monorepo/pull/29) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+5. ❌ Closed PR [#28](https://github.com/calvinbui/ansible-monorepo/pull/28) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 <!--END_SECTION:activity-->
