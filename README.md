@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/calvinbui/ansible-monorepo/pull/32) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-2. ❌ Closed PR [#31](https://github.com/calvinbui/ansible-monorepo/pull/31) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-3. ❌ Closed PR [#30](https://github.com/calvinbui/ansible-monorepo/pull/30) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-4. ❌ Closed PR [#29](https://github.com/calvinbui/ansible-monorepo/pull/29) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
-5. ❌ Closed PR [#28](https://github.com/calvinbui/ansible-monorepo/pull/28) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+1. 🗣 Commented on [#8270](https://github.com/linkerd/linkerd2/issues/8270) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+2. ❌ Closed PR [#32](https://github.com/calvinbui/ansible-monorepo/pull/32) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+3. ❌ Closed PR [#31](https://github.com/calvinbui/ansible-monorepo/pull/31) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+4. ❌ Closed PR [#30](https://github.com/calvinbui/ansible-monorepo/pull/30) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+5. ❌ Closed PR [#29](https://github.com/calvinbui/ansible-monorepo/pull/29) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 <!--END_SECTION:activity-->
