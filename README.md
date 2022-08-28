@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/XITRIX/Moonlight-Switch/issues/71) in [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)
-2. 💪 Opened PR [#27](https://github.com/tomvita/EdiZon-SE/pull/27) in [tomvita/EdiZon-SE](https://github.com/tomvita/EdiZon-SE)
-3. ❌ Closed PR [#31](https://github.com/calvinbui/ansible-monorepo/pull/31) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
+1. ❗️ Opened issue [#151](https://github.com/linuxserver/docker-nzbget/issues/151) in [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget)
+2. ❗️ Opened issue [#71](https://github.com/XITRIX/Moonlight-Switch/issues/71) in [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)
+3. 💪 Opened PR [#27](https://github.com/tomvita/EdiZon-SE/pull/27) in [tomvita/EdiZon-SE](https://github.com/tomvita/EdiZon-SE)
 4. ❌ Closed PR [#30](https://github.com/calvinbui/ansible-monorepo/pull/30) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 5. ❌ Closed PR [#29](https://github.com/calvinbui/ansible-monorepo/pull/29) in [calvinbui/ansible-monorepo](https://github.com/calvinbui/ansible-monorepo)
 <!--END_SECTION:activity-->
