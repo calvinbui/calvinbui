@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9306](https://github.com/linkerd/linkerd2/issues/9306) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-2. ❌ Closed PR [#27](https://github.com/tomvita/EdiZon-SE/pull/27) in [tomvita/EdiZon-SE](https://github.com/tomvita/EdiZon-SE)
-3. ❗️ Opened issue [#151](https://github.com/linuxserver/docker-nzbget/issues/151) in [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget)
-4. ❗️ Opened issue [#71](https://github.com/XITRIX/Moonlight-Switch/issues/71) in [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)
-5. 💪 Opened PR [#27](https://github.com/tomvita/EdiZon-SE/pull/27) in [tomvita/EdiZon-SE](https://github.com/tomvita/EdiZon-SE)
+1. 🗣 Commented on [#9305](https://github.com/linkerd/linkerd2/issues/9305) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+2. 🗣 Commented on [#9306](https://github.com/linkerd/linkerd2/issues/9306) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+3. ❌ Closed PR [#27](https://github.com/tomvita/EdiZon-SE/pull/27) in [tomvita/EdiZon-SE](https://github.com/tomvita/EdiZon-SE)
+4. ❗️ Opened issue [#151](https://github.com/linuxserver/docker-nzbget/issues/151) in [linuxserver/docker-nzbget](https://github.com/linuxserver/docker-nzbget)
+5. ❗️ Opened issue [#71](https://github.com/XITRIX/Moonlight-Switch/issues/71) in [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch)
 <!--END_SECTION:activity-->
