@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
-2. 💪 Opened PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
-3. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
-4. 🗣 Commented on [#9305](https://github.com/linkerd/linkerd2/issues/9305) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-5. 🗣 Commented on [#9306](https://github.com/linkerd/linkerd2/issues/9306) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+2. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
+3. 💪 Opened PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
+4. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
+5. 🗣 Commented on [#9305](https://github.com/linkerd/linkerd2/issues/9305) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
 <!--END_SECTION:activity-->
