@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7080](https://github.com/grafana/loki/issues/7080) in [grafana/loki](https://github.com/grafana/loki)
-2. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
-3. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
+1. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
+2. ❗️ Opened issue [#7080](https://github.com/grafana/loki/issues/7080) in [grafana/loki](https://github.com/grafana/loki)
+3. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
 4. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
-5. 💪 Opened PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
+5. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 <!--END_SECTION:activity-->
