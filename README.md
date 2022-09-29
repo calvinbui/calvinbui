@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
-2. ❗️ Opened issue [#7080](https://github.com/grafana/loki/issues/7080) in [grafana/loki](https://github.com/grafana/loki)
+1. ❗️ Opened issue [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
+2. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 3. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
 4. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 5. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
