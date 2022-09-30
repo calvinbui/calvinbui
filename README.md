@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
-2. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
-3. 🗣 Commented on [#7047](https://github.com/grafana/loki/issues/7047) in [grafana/loki](https://github.com/grafana/loki)
+1. 🎉 Merged PR [#12](https://github.com/calvinbui/homer-service-discovery/pull/12) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. ❗️ Opened issue [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
+3. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 4. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 5. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 <!--END_SECTION:activity-->
