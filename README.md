@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/calvinbui/homer-service-discovery/pull/13) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. ❗️ Opened issue [#803](https://github.com/totaldebug/atomic-calendar-revive/issues/803) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
-3. 🎉 Merged PR [#12](https://github.com/calvinbui/homer-service-discovery/pull/12) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. ❗️ Opened issue [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
-5. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
+1. 🎉 Merged PR [#13](https://github.com/calvinbui/homer-service-discovery/pull/13) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 💪 Opened PR [#13](https://github.com/calvinbui/homer-service-discovery/pull/13) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. ❗️ Opened issue [#803](https://github.com/totaldebug/atomic-calendar-revive/issues/803) in [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive)
+4. 🎉 Merged PR [#12](https://github.com/calvinbui/homer-service-discovery/pull/12) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. ❗️ Opened issue [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
 <!--END_SECTION:activity-->
