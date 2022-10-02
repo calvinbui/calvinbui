@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. ❌ Reopened PR [#14](https://github.com/calvinbui/homer-service-discovery/pull/14) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. ❌ Closed PR [#14](https://github.com/calvinbui/homer-service-discovery/pull/14) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 🎉 Merged PR [#15](https://github.com/calvinbui/homer-service-discovery/pull/15) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-5. 💪 Opened PR [#15](https://github.com/calvinbui/homer-service-discovery/pull/15) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🎉 Merged PR [#17](https://github.com/calvinbui/homer-service-discovery/pull/17) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 💪 Opened PR [#17](https://github.com/calvinbui/homer-service-discovery/pull/17) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🎉 Merged PR [#14](https://github.com/calvinbui/homer-service-discovery/pull/14) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+4. 🎉 Merged PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
