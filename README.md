@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
-2. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
-3. 🎉 Merged PR [#14](https://github.com/calvinbui/homer-service-discovery/pull/14) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
+2. ❌ Closed PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
+3. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 4. 🎉 Merged PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 5. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
