@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
+1. 💪 Opened PR [#426](https://github.com/mampfes/hacs_waste_collection_schedule/pull/426) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 2. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
-3. ❌ Closed PR [#7049](https://github.com/grafana/loki/pull/7049) in [grafana/loki](https://github.com/grafana/loki)
+3. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
 4. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 5. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
