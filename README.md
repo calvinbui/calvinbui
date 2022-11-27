@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Nov 27, 2022 - [10 Gigabit Installation Notes](https://calvin.me/10-gigabit-installation-notes)
 - Oct 29, 2022 - [Home](https://calvin.me/home)
 - Sep 1, 2022 - [Nintendo Switch OLED Modding](https://calvin.me/nintendo-switch-oled-modding)
 - Aug 26, 2022 - [Self-Hosted Git &amp; CI/CD Use Cases](https://calvin.me/self-hosted-git-cicd-use-cases)
 - Jul 28, 2022 - [Kubernetes Replica Count Manager](https://calvin.me/kubernetes-replica-count-manager)
-- Jun 10, 2022 - [Designing Taller Sofa Feet](https://calvin.me/designing-taller-sofa-feet)
 
 <!-- BLOG-POST-LIST:END -->
 
