@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#448](https://github.com/mampfes/hacs_waste_collection_schedule/pull/448) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-2. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
-3. 🗣 Commented on [#13378](https://github.com/bitnami/charts/issues/13378) in [bitnami/charts](https://github.com/bitnami/charts)
+1. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 💪 Opened PR [#454](https://github.com/mampfes/hacs_waste_collection_schedule/pull/454) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+3. 💪 Opened PR [#448](https://github.com/mampfes/hacs_waste_collection_schedule/pull/448) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 4. 🗣 Commented on [#7049](https://github.com/grafana/loki/issues/7049) in [grafana/loki](https://github.com/grafana/loki)
 5. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
