@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1604](https://github.com/umami-software/umami/issues/1604) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#454](https://github.com/mampfes/hacs_waste_collection_schedule/pull/454) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-4. 💪 Opened PR [#448](https://github.com/mampfes/hacs_waste_collection_schedule/pull/448) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+1. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#1604](https://github.com/umami-software/umami/issues/1604) in [umami-software/umami](https://github.com/umami-software/umami)
+3. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 💪 Opened PR [#454](https://github.com/mampfes/hacs_waste_collection_schedule/pull/454) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 5. 💪 Opened PR [#16](https://github.com/calvinbui/homer-service-discovery/pull/16) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
