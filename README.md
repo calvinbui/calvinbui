@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
-2. ❗️ Opened issue [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
-3. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#1604](https://github.com/umami-software/umami/issues/1604) in [umami-software/umami](https://github.com/umami-software/umami)
-5. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
+3. ❗️ Opened issue [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
+4. 🗣 Commented on [#81624](https://github.com/home-assistant/core/issues/81624) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#1604](https://github.com/umami-software/umami/issues/1604) in [umami-software/umami](https://github.com/umami-software/umami)
 <!--END_SECTION:activity-->
