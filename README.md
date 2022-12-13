@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 💪 Opened PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
+1. 💪 Opened PR [#467](https://github.com/mampfes/hacs_waste_collection_schedule/pull/467) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. 🎉 Merged PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 💪 Opened PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 4. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
-5. ❗️ Opened issue [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
+5. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
 <!--END_SECTION:activity-->
