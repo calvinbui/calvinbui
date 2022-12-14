@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#467](https://github.com/mampfes/hacs_waste_collection_schedule/pull/467) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-2. 🎉 Merged PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-3. 💪 Opened PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
-5. 🗣 Commented on [#75](https://github.com/franc6/ics_calendar/issues/75) in [franc6/ics_calendar](https://github.com/franc6/ics_calendar)
+1. 🗣 Commented on [#16](https://github.com/humbertogontijo/homeassistant-roborock/issues/16) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+2. ❗️ Opened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+3. 💪 Opened PR [#467](https://github.com/mampfes/hacs_waste_collection_schedule/pull/467) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+4. 🎉 Merged PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 💪 Opened PR [#18](https://github.com/calvinbui/homer-service-discovery/pull/18) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
