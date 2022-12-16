@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-2. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-3. 🗣 Commented on [#16](https://github.com/humbertogontijo/homeassistant-roborock/issues/16) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-4. ❗️ Opened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-5. 💪 Opened PR [#467](https://github.com/mampfes/hacs_waste_collection_schedule/pull/467) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+1. ❗️ Opened issue [#1990](https://github.com/amir20/dozzle/issues/1990) in [amir20/dozzle](https://github.com/amir20/dozzle)
+2. ❗️ Closed issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+3. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+4. 🗣 Commented on [#16](https://github.com/humbertogontijo/homeassistant-roborock/issues/16) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+5. ❗️ Opened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
 <!--END_SECTION:activity-->
