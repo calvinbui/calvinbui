@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+1. ❗️ Closed issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
 2. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-3. 🗣 Commented on [#573](https://github.com/fuatakgun/eufy_security/issues/573) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
-4. 🗣 Commented on [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
-5. 🗣 Commented on [#1990](https://github.com/amir20/dozzle/issues/1990) in [amir20/dozzle](https://github.com/amir20/dozzle)
+3. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+4. ❗️ Reopened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+5. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
 <!--END_SECTION:activity-->
