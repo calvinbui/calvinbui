@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/mark1foley/ha-gtfs-rt-v2/issues/11) in [mark1foley/ha-gtfs-rt-v2](https://github.com/mark1foley/ha-gtfs-rt-v2)
-2. ❗️ Opened issue [#11](https://github.com/mark1foley/ha-gtfs-rt-v2/issues/11) in [mark1foley/ha-gtfs-rt-v2](https://github.com/mark1foley/ha-gtfs-rt-v2)
-3. 💪 Opened PR [#2994](https://github.com/prometheus-community/helm-charts/pull/2994) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-4. ❗️ Reopened issue [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
-5. 🗣 Commented on [#17](https://github.com/humbertogontijo/homeassistant-roborock/issues/17) in [humbertogontijo/homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock)
+1. 🎉 Merged PR [#20](https://github.com/calvinbui/homer-service-discovery/pull/20) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 💪 Opened PR [#20](https://github.com/calvinbui/homer-service-discovery/pull/20) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+3. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+4. 💪 Opened PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+5. 🗣 Commented on [#11](https://github.com/mark1foley/ha-gtfs-rt-v2/issues/11) in [mark1foley/ha-gtfs-rt-v2](https://github.com/mark1foley/ha-gtfs-rt-v2)
 <!--END_SECTION:activity-->
