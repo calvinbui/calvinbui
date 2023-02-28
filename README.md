@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Feb 28, 2023 - [Laser Eye Surgery](https://calvin.me/laser-eye-surgery)
 - Jan 27, 2023 - [Solar Power](https://calvin.me/solar-power)
 - Dec 16, 2022 - [Smart Home Dashboard](https://calvin.me/smart-home-dashboard)
 - Nov 27, 2022 - [10 Gigabit Installation Notes](https://calvin.me/10-gigabit-installation-notes)
 - Oct 29, 2022 - [Home](https://calvin.me/home)
-- Sep 1, 2022 - [Nintendo Switch OLED Modding](https://calvin.me/nintendo-switch-oled-modding)
 
 <!-- BLOG-POST-LIST:END -->
 
