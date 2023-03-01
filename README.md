@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/publicarray/dns-resolver-infra/issues/17) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
-2. 🎉 Merged PR [#21](https://github.com/calvinbui/homer-service-discovery/pull/21) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🗣 Commented on [#681](https://github.com/fuatakgun/eufy_security/issues/681) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
+2. ❗️ Opened issue [#17](https://github.com/publicarray/dns-resolver-infra/issues/17) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
 3. ❗️ Opened issue [#1](https://github.com/Lyall/SignalisFix/issues/1) in [Lyall/SignalisFix](https://github.com/Lyall/SignalisFix)
 4. 💪 Opened PR [#20](https://github.com/calvinbui/homer-service-discovery/pull/20) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
