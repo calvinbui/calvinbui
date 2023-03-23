@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29977](https://github.com/hashicorp/terraform-provider-aws/issues/29977) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. ❗️ Closed issue [#104](https://github.com/anchore/anchore-charts/issues/104) in [anchore/anchore-charts](https://github.com/anchore/anchore-charts)
 2. ❗️ Opened issue [#28](https://github.com/nichobi/sponsorblockcast/issues/28) in [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast)
 3. ❗️ Opened issue [#17](https://github.com/publicarray/dns-resolver-infra/issues/17) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
 4. 💪 Opened PR [#20](https://github.com/calvinbui/homer-service-discovery/pull/20) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
