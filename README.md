@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2446](https://github.com/bitwarden/mobile/issues/2446) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
-2. ❗️ Opened issue [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
-3. ❗️ Opened issue [#17](https://github.com/publicarray/dns-resolver-infra/issues/17) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
+1. 💪 Opened PR [#1234](https://github.com/kubernetes-sigs/metrics-server/pull/1234) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+2. 🗣 Commented on [#2446](https://github.com/bitwarden/mobile/issues/2446) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
+3. ❗️ Opened issue [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
 4. 💪 Opened PR [#20](https://github.com/calvinbui/homer-service-discovery/pull/20) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
