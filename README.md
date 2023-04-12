@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/calvinbui/homer-service-discovery/pull/22) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-2. 🗣 Commented on [#1234](https://github.com/kubernetes-sigs/metrics-server/issues/1234) in [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)
+1. 🗣 Commented on [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
+2. 🎉 Merged PR [#22](https://github.com/calvinbui/homer-service-discovery/pull/22) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 3. 🗣 Commented on [#2446](https://github.com/bitwarden/mobile/issues/2446) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
 4. 🗣 Commented on [#2446](https://github.com/bitwarden/mobile/issues/2446) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
 5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
