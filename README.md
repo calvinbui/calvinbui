@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3059](https://github.com/aws/karpenter/issues/3059) in [aws/karpenter](https://github.com/aws/karpenter)
-2. 🗣 Commented on [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
-3. 🎉 Merged PR [#22](https://github.com/calvinbui/homer-service-discovery/pull/22) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
-4. 🗣 Commented on [#2446](https://github.com/bitwarden/mobile/issues/2446) in [bitwarden/mobile](https://github.com/bitwarden/mobile)
+1. 🗣 Commented on [#482](https://github.com/aws-controllers-k8s/community/issues/482) in [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community)
+2. 🗣 Commented on [#3059](https://github.com/aws/karpenter/issues/3059) in [aws/karpenter](https://github.com/aws/karpenter)
+3. 🗣 Commented on [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
+4. 🎉 Merged PR [#22](https://github.com/calvinbui/homer-service-discovery/pull/22) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
 <!--END_SECTION:activity-->
