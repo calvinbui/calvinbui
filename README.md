@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
-2. 🗣 Commented on [#482](https://github.com/aws-controllers-k8s/community/issues/482) in [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community)
+1. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+2. ❗️ Opened issue [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
 3. 🗣 Commented on [#3059](https://github.com/aws/karpenter/issues/3059) in [aws/karpenter](https://github.com/aws/karpenter)
 4. 🗣 Commented on [#33](https://github.com/flixlix/power-flow-card-plus/issues/33) in [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus)
 5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
