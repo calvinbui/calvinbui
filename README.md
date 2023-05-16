@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/nomic-ai/gpt4all-ui/issues/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
-2. 🗣 Commented on [#7946](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7946) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-3. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
-4. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
-5. 🎉 Merged PR [#19](https://github.com/calvinbui/homer-service-discovery/pull/19) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🎉 Merged PR [#23](https://github.com/calvinbui/homer-service-discovery/pull/23) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+2. 🗣 Commented on [#184](https://github.com/nomic-ai/gpt4all-ui/issues/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
+3. 🗣 Commented on [#7946](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7946) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
+5. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
 <!--END_SECTION:activity-->
