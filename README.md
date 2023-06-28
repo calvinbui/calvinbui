@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/calvinbui/homer-service-discovery/pull/23) in [calvinbui/homer-service-discovery](https://github.com/calvinbui/homer-service-discovery)
+1. 🎉 Merged PR [#4](https://github.com/calvinbui/dotfiles/pull/4) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 2. 🗣 Commented on [#184](https://github.com/nomic-ai/gpt4all-ui/issues/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
 3. 🗣 Commented on [#7946](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7946) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
