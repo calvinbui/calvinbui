@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jun 30, 2023 - [Holiday Travel Tips](https://calvin.me/holiday-travel-tips)
 - May 3, 2023 - [IKEA Bekant Standing Desk Mods](https://calvin.me/ikea-bekant-megadesk)
 - Apr 7, 2023 - [New Features and Changes](https://calvin.me/new-features-and-changes)
 - Mar 27, 2023 - [Home Security](https://calvin.me/home-security)
 - Feb 28, 2023 - [Laser Eye Surgery](https://calvin.me/laser-eye-surgery)
-- Jan 27, 2023 - [Solar Power](https://calvin.me/solar-power)
 
 <!-- BLOG-POST-LIST:END -->
 
