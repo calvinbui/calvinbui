@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
-2. 🎉 Merged PR [#4](https://github.com/calvinbui/dotfiles/pull/4) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-3. 🗣 Commented on [#7946](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7946) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+1. 🎉 Merged PR [#5](https://github.com/calvinbui/dotfiles/pull/5) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+2. 🗣 Commented on [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
+3. 🎉 Merged PR [#4](https://github.com/calvinbui/dotfiles/pull/4) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
 5. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
 <!--END_SECTION:activity-->
