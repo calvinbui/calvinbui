@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/calvinbui/dotfiles/pull/6) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. ❌ Closed PR [#7](https://github.com/calvinbui/dotfiles/pull/7) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 2. 🗣 Commented on [#45898](https://github.com/moby/moby/issues/45898) in [moby/moby](https://github.com/moby/moby)
 3. 🗣 Commented on [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
 4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
