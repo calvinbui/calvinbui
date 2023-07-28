@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1738](https://github.com/aws/karpenter/issues/1738#issuecomment-1652773492) in [aws/karpenter](https://github.com/aws/karpenter)
-2. 🗣 Commented on [#142](https://github.com/aws/containers-roadmap/issues/142#issuecomment-1650785053) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
-3. 🗣 Commented on [#31895](https://github.com/hashicorp/terraform/issues/31895) in [hashicorp/terraform](https://github.com/hashicorp/terraform)
+1. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1655007989) in [amir20/dozzle](https://github.com/amir20/dozzle)
+2. 🗣 Commented on [#1738](https://github.com/aws/karpenter/issues/1738#issuecomment-1652773492) in [aws/karpenter](https://github.com/aws/karpenter)
+3. 🗣 Commented on [#142](https://github.com/aws/containers-roadmap/issues/142#issuecomment-1650785053) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
 4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
 5. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
 <!--END_SECTION:activity-->
