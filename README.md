@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1659257251) in [amir20/dozzle](https://github.com/amir20/dozzle)
-2. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1655007989) in [amir20/dozzle](https://github.com/amir20/dozzle)
-3. 🗣 Commented on [#1738](https://github.com/aws/karpenter/issues/1738#issuecomment-1652773492) in [aws/karpenter](https://github.com/aws/karpenter)
-4. 💪 Opened PR [#184](https://github.com/nomic-ai/gpt4all-ui/pull/184) in [nomic-ai/gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)
-5. 🗣 Commented on [#166](https://github.com/buildkite/agent-stack-k8s/issues/166) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+1. ❌ Closed PR [#9](https://github.com/calvinbui/dotfiles/pull/9) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+2. ❌ Closed PR [#8](https://github.com/calvinbui/dotfiles/pull/8) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+3. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1659257251) in [amir20/dozzle](https://github.com/amir20/dozzle)
+4. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1655007989) in [amir20/dozzle](https://github.com/amir20/dozzle)
+5. 🗣 Commented on [#1738](https://github.com/aws/karpenter/issues/1738#issuecomment-1652773492) in [aws/karpenter](https://github.com/aws/karpenter)
 <!--END_SECTION:activity-->
