@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10767](https://github.com/linkerd/linkerd2/issues/10767#issuecomment-1661332895) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-2. 💪 Opened PR [#3838](https://github.com/kubernetes-sigs/external-dns/pull/3838) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-3. 🎉 Merged PR [#1](https://github.com/calvinbui/terraform-symlink-example/pull/1) in [calvinbui/terraform-symlink-example](https://github.com/calvinbui/terraform-symlink-example)
-4. ❌ Closed PR [#9](https://github.com/calvinbui/dotfiles/pull/9) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-5. ❌ Closed PR [#8](https://github.com/calvinbui/dotfiles/pull/8) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. 🗣 Commented on [#11192](https://github.com/linkerd/linkerd2/pull/11192#issuecomment-1661367400) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+2. 💪 Opened PR [#11192](https://github.com/linkerd/linkerd2/pull/11192) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+3. 🗣 Commented on [#10767](https://github.com/linkerd/linkerd2/issues/10767#issuecomment-1661332895) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+4. 💪 Opened PR [#3838](https://github.com/kubernetes-sigs/external-dns/pull/3838) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+5. 🎉 Merged PR [#1](https://github.com/calvinbui/terraform-symlink-example/pull/1) in [calvinbui/terraform-symlink-example](https://github.com/calvinbui/terraform-symlink-example)
 <!--END_SECTION:activity-->
