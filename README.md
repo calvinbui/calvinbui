@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/calvinbui/terraform-symlink-example/pull/1) in [calvinbui/terraform-symlink-example](https://github.com/calvinbui/terraform-symlink-example)
-2. ❌ Closed PR [#9](https://github.com/calvinbui/dotfiles/pull/9) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-3. ❌ Closed PR [#8](https://github.com/calvinbui/dotfiles/pull/8) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-4. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1659257251) in [amir20/dozzle](https://github.com/amir20/dozzle)
-5. 🗣 Commented on [#2322](https://github.com/amir20/dozzle/issues/2322#issuecomment-1655007989) in [amir20/dozzle](https://github.com/amir20/dozzle)
+1. 🗣 Commented on [#10767](https://github.com/linkerd/linkerd2/issues/10767#issuecomment-1661332895) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+2. 💪 Opened PR [#3838](https://github.com/kubernetes-sigs/external-dns/pull/3838) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+3. 🎉 Merged PR [#1](https://github.com/calvinbui/terraform-symlink-example/pull/1) in [calvinbui/terraform-symlink-example](https://github.com/calvinbui/terraform-symlink-example)
+4. ❌ Closed PR [#9](https://github.com/calvinbui/dotfiles/pull/9) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+5. ❌ Closed PR [#8](https://github.com/calvinbui/dotfiles/pull/8) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 <!--END_SECTION:activity-->
