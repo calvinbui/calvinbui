@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3661](https://github.com/prometheus-community/helm-charts/pull/3661) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. 💪 Opened PR [#3657](https://github.com/prometheus-community/helm-charts/pull/3657) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-3. 🗣 Commented on [#3838](https://github.com/kubernetes-sigs/external-dns/pull/3838#issuecomment-1662149922) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-4. 🗣 Commented on [#11192](https://github.com/linkerd/linkerd2/pull/11192#issuecomment-1661367400) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
-5. 💪 Opened PR [#11192](https://github.com/linkerd/linkerd2/pull/11192) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+1. ❗ Opened issue [#200](https://github.com/recyclarr/recyclarr/issues/200) in [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)
+2. 💪 Opened PR [#3661](https://github.com/prometheus-community/helm-charts/pull/3661) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+3. 💪 Opened PR [#3657](https://github.com/prometheus-community/helm-charts/pull/3657) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+4. 🗣 Commented on [#3838](https://github.com/kubernetes-sigs/external-dns/pull/3838#issuecomment-1662149922) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+5. 🗣 Commented on [#11192](https://github.com/linkerd/linkerd2/pull/11192#issuecomment-1661367400) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
 <!--END_SECTION:activity-->
