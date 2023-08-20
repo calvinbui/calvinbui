@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Aug 21, 2023 - [Modding Tears of the Kingdom](https://calvin.me/modding-tears-of-the-kingdom)
 - Jul 30, 2023 - [Resume in LaTeX](https://calvin.me/resume-in-latex)
 - Jun 30, 2023 - [Holiday Travel Tips](https://calvin.me/holiday-travel-tips)
 - May 3, 2023 - [IKEA Bekant Standing Desk Mods](https://calvin.me/ikea-bekant-megadesk)
 - Apr 7, 2023 - [New Features and Changes](https://calvin.me/new-features-and-changes)
-- Mar 27, 2023 - [Home Security](https://calvin.me/home-security)
 
 <!-- BLOG-POST-LIST:END -->
 
