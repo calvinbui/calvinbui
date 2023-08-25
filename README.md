@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-2. 💪 Opened PR [#1520](https://github.com/TRaSH-Guides/Guides/pull/1520) in [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides)
-3. 🗣 Commented on [#153](https://github.com/oziee/ha-solcast-solar/issues/153#issuecomment-1679788330) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
+1. 💪 Opened PR [#10339](https://github.com/grafana/loki/pull/10339) in [grafana/loki](https://github.com/grafana/loki)
+2. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+3. 💪 Opened PR [#1520](https://github.com/TRaSH-Guides/Guides/pull/1520) in [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides)
 4. 🗣 Commented on [#153](https://github.com/oziee/ha-solcast-solar/issues/153#issuecomment-1679688404) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 5. 🗣 Commented on [#153](https://github.com/oziee/ha-solcast-solar/issues/153#issuecomment-1678840349) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 <!--END_SECTION:activity-->
