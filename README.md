@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2806](https://github.com/yuliskov/SmartTubeNext/issues/2806#issuecomment-1722271619) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
-2. 🗣 Commented on [#11309](https://github.com/linkerd/linkerd2/issues/11309#issuecomment-1704461545) in [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+1. 🗣 Commented on [#6723](https://github.com/thanos-io/thanos/issues/6723#issuecomment-1728572808) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+2. 🗣 Commented on [#2806](https://github.com/yuliskov/SmartTubeNext/issues/2806#issuecomment-1722271619) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 3. 🗣 Commented on [#174](https://github.com/oziee/ha-solcast-solar/issues/174#issuecomment-1694130760) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 5. 💪 Opened PR [#1520](https://github.com/TRaSH-Guides/Guides/pull/1520) in [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides)
