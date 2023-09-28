@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6723](https://github.com/thanos-io/thanos/issues/6723#issuecomment-1728572808) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 💪 Opened PR [#38](https://github.com/disaster37/terraform-provider-kibana/pull/38) in [disaster37/terraform-provider-kibana](https://github.com/disaster37/terraform-provider-kibana)
 2. 🗣 Commented on [#2806](https://github.com/yuliskov/SmartTubeNext/issues/2806#issuecomment-1722271619) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 3. 🗣 Commented on [#174](https://github.com/oziee/ha-solcast-solar/issues/174#issuecomment-1694130760) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
