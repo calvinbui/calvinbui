@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/disaster37/terraform-provider-kibana/pull/38) in [disaster37/terraform-provider-kibana](https://github.com/disaster37/terraform-provider-kibana)
-2. 🗣 Commented on [#2806](https://github.com/yuliskov/SmartTubeNext/issues/2806#issuecomment-1722271619) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
+1. ❗ Opened issue [#436](https://github.com/elastic/terraform-provider-elasticstack/issues/436) in [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack)
+2. 💪 Opened PR [#38](https://github.com/disaster37/terraform-provider-kibana/pull/38) in [disaster37/terraform-provider-kibana](https://github.com/disaster37/terraform-provider-kibana)
 3. 🗣 Commented on [#174](https://github.com/oziee/ha-solcast-solar/issues/174#issuecomment-1694130760) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 5. 💪 Opened PR [#1520](https://github.com/TRaSH-Guides/Guides/pull/1520) in [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides)
