@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2245](https://github.com/gethomepage/homepage/issues/2245#issuecomment-1782759259) in [gethomepage/homepage](https://github.com/gethomepage/homepage)
-2. 💪 Opened PR [#38](https://github.com/disaster37/terraform-provider-kibana/pull/38) in [disaster37/terraform-provider-kibana](https://github.com/disaster37/terraform-provider-kibana)
+1. ❌ Closed PR [#10](https://github.com/calvinbui/dotfiles/pull/10) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+2. 🗣 Commented on [#2245](https://github.com/gethomepage/homepage/issues/2245#issuecomment-1782759259) in [gethomepage/homepage](https://github.com/gethomepage/homepage)
 3. 🗣 Commented on [#174](https://github.com/oziee/ha-solcast-solar/issues/174#issuecomment-1694130760) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 5. 💪 Opened PR [#1520](https://github.com/TRaSH-Guides/Guides/pull/1520) in [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides)
