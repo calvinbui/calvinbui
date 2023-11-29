@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/calvinbui/dotfiles/pull/10) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. 🗣 Commented on [#28252](https://github.com/go-gitea/gitea/issues/28252#issuecomment-1830953331) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 2. 🗣 Commented on [#2245](https://github.com/gethomepage/homepage/issues/2245#issuecomment-1782759259) in [gethomepage/homepage](https://github.com/gethomepage/homepage)
 3. 🗣 Commented on [#174](https://github.com/oziee/ha-solcast-solar/issues/174#issuecomment-1694130760) in [oziee/ha-solcast-solar](https://github.com/oziee/ha-solcast-solar)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
