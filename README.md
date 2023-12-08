@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28252](https://github.com/go-gitea/gitea/issues/28252#issuecomment-1839911672) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. ❗ Opened issue [#740](https://github.com/keylase/nvidia-patch/issues/740) in [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch)
 2. 🗣 Commented on [#28252](https://github.com/go-gitea/gitea/issues/28252#issuecomment-1831651364) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 3. 🗣 Commented on [#28252](https://github.com/go-gitea/gitea/issues/28252#issuecomment-1830953331) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 4. 💪 Opened PR [#3722](https://github.com/prometheus-community/helm-charts/pull/3722) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
