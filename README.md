@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3004](https://github.com/cloudflare/terraform-provider-cloudflare/issues/3004) in [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)
-2. 🗣 Commented on [#24769](https://github.com/go-gitea/gitea/issues/24769#issuecomment-1849397474) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. ❗ Opened issue [#19](https://github.com/publicarray/dns-resolver-infra/issues/19) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
-4. 🗣 Commented on [#24769](https://github.com/go-gitea/gitea/issues/24769#issuecomment-1847964199) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. ❗ Opened issue [#740](https://github.com/keylase/nvidia-patch/issues/740) in [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch)
+1. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855166498) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+2. ❗ Opened issue [#3004](https://github.com/cloudflare/terraform-provider-cloudflare/issues/3004) in [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)
+3. 🗣 Commented on [#24769](https://github.com/go-gitea/gitea/issues/24769#issuecomment-1849397474) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+4. ❗ Opened issue [#19](https://github.com/publicarray/dns-resolver-infra/issues/19) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
+5. 🗣 Commented on [#24769](https://github.com/go-gitea/gitea/issues/24769#issuecomment-1847964199) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
