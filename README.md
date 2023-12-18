@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5352](https://github.com/aws/karpenter-provider-aws/issues/5352) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-2. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855236571) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-3. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855229201) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-4. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855223224) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-5. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855166498) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+1. 🗣 Commented on [#5352](https://github.com/aws/karpenter-provider-aws/issues/5352#issuecomment-1861762775) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+2. ❗ Opened issue [#5352](https://github.com/aws/karpenter-provider-aws/issues/5352) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+3. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855236571) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+4. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855229201) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+5. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855223224) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 <!--END_SECTION:activity-->
