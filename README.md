@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Dec 31, 2023 - [Breville Electric Blanket with Home Assistant](https://calvin.me/breville-tuya)
 - Nov 30, 2023 - [Living Room Entertainment](https://calvin.me/living-room-entertainment)
 - Oct 1, 2023 - [Migrating Fastmail Accounts](https://calvin.me/migrating-fastmail-accounts)
 - Sep 17, 2023 - [Worm Farm](https://calvin.me/worm-farm)
 - Aug 21, 2023 - [Modding Tears of the Kingdom](https://calvin.me/modding-tears-of-the-kingdom)
-- Jul 30, 2023 - [Resume in LaTeX](https://calvin.me/resume-in-latex)
 
 <!-- BLOG-POST-LIST:END -->
 
