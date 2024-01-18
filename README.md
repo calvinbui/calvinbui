@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885103474) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
-2. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885100237) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
-3. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1884907230) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
-4. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855229201) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+1. 💪 Opened PR [#367](https://github.com/vrtmrz/obsidian-livesync/pull/367) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
+2. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885103474) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
+3. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885100237) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
+4. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1884907230) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
 5. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855223224) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 <!--END_SECTION:activity-->
