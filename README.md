@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#367](https://github.com/vrtmrz/obsidian-livesync/pull/367) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
+1. 🗣 Commented on [#534](https://github.com/uazo/cromite/issues/534#issuecomment-1918154598) in [uazo/cromite](https://github.com/uazo/cromite)
 2. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885103474) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
 3. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1885100237) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
 4. 🗣 Commented on [#36](https://github.com/wez/govee2mqtt/issues/36#issuecomment-1884907230) in [wez/govee2mqtt](https://github.com/wez/govee2mqtt)
