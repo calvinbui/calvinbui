@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Feb 27, 2024 - [Kobo Clara HD eBook Reader](https://calvin.me/kobo-clara-hd-ebook-reader)
 - Jan 18, 2024 - [Note-taking with Obsidian](https://calvin.me/note-taking-with-obsidian)
 - Dec 31, 2023 - [Breville Electric Blanket with Home Assistant](https://calvin.me/breville-tuya)
 - Nov 30, 2023 - [Living Room Entertainment](https://calvin.me/living-room-entertainment)
 - Oct 1, 2023 - [Migrating Fastmail Accounts](https://calvin.me/migrating-fastmail-accounts)
-- Sep 17, 2023 - [Worm Farm](https://calvin.me/worm-farm)
 
 <!-- BLOG-POST-LIST:END -->
 
