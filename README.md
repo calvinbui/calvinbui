@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/sh00t2kill/linktap_local_http_component/issues/41#issuecomment-1985002586) in [sh00t2kill/linktap_local_http_component](https://github.com/sh00t2kill/linktap_local_http_component)
+1. 🗣 Commented on [#23296](https://github.com/mattermost/mattermost/issues/23296#issuecomment-1999149529) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 2. ❗ Opened issue [#41](https://github.com/sh00t2kill/linktap_local_http_component/issues/41) in [sh00t2kill/linktap_local_http_component](https://github.com/sh00t2kill/linktap_local_http_component)
 3. 💪 Opened PR [#40](https://github.com/sh00t2kill/linktap_local_http_component/pull/40) in [sh00t2kill/linktap_local_http_component](https://github.com/sh00t2kill/linktap_local_http_component)
 4. 🗣 Commented on [#374](https://github.com/vrtmrz/obsidian-livesync/issues/374#issuecomment-1974808025) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
