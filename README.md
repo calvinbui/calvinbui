@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#63](https://github.com/ansibleguy/collection_opnsense/issues/63) in [ansibleguy/collection_opnsense](https://github.com/ansibleguy/collection_opnsense)
-2. 🗣 Commented on [#23296](https://github.com/mattermost/mattermost/issues/23296#issuecomment-1999149529) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-3. 💪 Opened PR [#40](https://github.com/sh00t2kill/linktap_local_http_component/pull/40) in [sh00t2kill/linktap_local_http_component](https://github.com/sh00t2kill/linktap_local_http_component)
+1. 🗣 Commented on [#207](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts/pull/207#issuecomment-2001972807) in [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
+2. ❗ Opened issue [#63](https://github.com/ansibleguy/collection_opnsense/issues/63) in [ansibleguy/collection_opnsense](https://github.com/ansibleguy/collection_opnsense)
+3. 🗣 Commented on [#23296](https://github.com/mattermost/mattermost/issues/23296#issuecomment-1999149529) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 4. 🗣 Commented on [#374](https://github.com/vrtmrz/obsidian-livesync/issues/374#issuecomment-1974808025) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 5. 🗣 Commented on [#5288](https://github.com/aws/karpenter-provider-aws/issues/5288#issuecomment-1855223224) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 <!--END_SECTION:activity-->
