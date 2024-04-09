@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#707](https://github.com/uazo/cromite/issues/707#issuecomment-2016831385) in [uazo/cromite](https://github.com/uazo/cromite)
+1. 🗣 Commented on [#6018](https://github.com/thanos-io/thanos/issues/6018#issuecomment-2043991655) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
 2. 🗣 Commented on [#761](https://github.com/uazo/cromite/issues/761#issuecomment-2011903423) in [uazo/cromite](https://github.com/uazo/cromite)
 3. 🗣 Commented on [#707](https://github.com/uazo/cromite/issues/707#issuecomment-2011891665) in [uazo/cromite](https://github.com/uazo/cromite)
 4. 🗣 Commented on [#207](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts/pull/207#issuecomment-2001972807) in [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
