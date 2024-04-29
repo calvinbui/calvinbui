@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/7#issuecomment-2081739545) in [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity)
-2. ❗ Opened issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-3. 🗣 Commented on [#207](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts/pull/207#issuecomment-2080390237) in [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
-4. ❌ Closed PR [#11](https://github.com/calvinbui/dotfiles/pull/11) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-5. ❌ Closed PR [#12](https://github.com/calvinbui/dotfiles/pull/12) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. 🗣 Commented on [#1330](https://github.com/kubernetes-sigs/aws-efs-csi-driver/issues/1330#issuecomment-2081859008) in [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+2. 🗣 Commented on [#7](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/7#issuecomment-2081739545) in [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity)
+3. ❗ Opened issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+4. 🗣 Commented on [#207](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts/pull/207#issuecomment-2080390237) in [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts)
+5. ❌ Closed PR [#11](https://github.com/calvinbui/dotfiles/pull/11) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 <!--END_SECTION:activity-->
