@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- May 25, 2024 - [Cycling Part 2](https://calvin.me/cycling-part-2)
 - Apr 27, 2024 - [Cycling Part 1](https://calvin.me/cycling-part-1)
 - Mar 19, 2024 - [Printing Flexible Filaments on Prusa MK3S](https://calvin.me/printing-flexible-filaments-on-prusa-mk3s)
 - Feb 27, 2024 - [Kobo Clara HD eBook Reader](https://calvin.me/kobo-clara-hd-ebook-reader)
 - Jan 18, 2024 - [Note-taking with Obsidian](https://calvin.me/note-taking-with-obsidian)
-- Dec 31, 2023 - [Breville Electric Blanket with Home Assistant](https://calvin.me/breville-tuya)
 
 <!-- BLOG-POST-LIST:END -->
 
