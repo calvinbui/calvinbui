@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#643](https://github.com/kedacore/charts/pull/643#issuecomment-2177925682) in [kedacore/charts](https://github.com/kedacore/charts)
-2. 🗣 Commented on [#7](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/issues/7#issuecomment-2081979243) in [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity)
+1. 🗣 Commented on [#874](https://github.com/kedacore/http-add-on/issues/874#issuecomment-2190766404) in [kedacore/http-add-on](https://github.com/kedacore/http-add-on)
+2. 🗣 Commented on [#643](https://github.com/kedacore/charts/pull/643#issuecomment-2177925682) in [kedacore/charts](https://github.com/kedacore/charts)
 3. 🗣 Commented on [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146#issuecomment-2081977548) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 4. 🔒 Closed issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 5. 🗣 Commented on [#1330](https://github.com/kubernetes-sigs/aws-efs-csi-driver/issues/1330#issuecomment-2081859008) in [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
