@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#874](https://github.com/kedacore/http-add-on/issues/874#issuecomment-2190766404) in [kedacore/http-add-on](https://github.com/kedacore/http-add-on)
+1. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 2. 🗣 Commented on [#643](https://github.com/kedacore/charts/pull/643#issuecomment-2177925682) in [kedacore/charts](https://github.com/kedacore/charts)
 3. 🗣 Commented on [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146#issuecomment-2081977548) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 4. 🔒 Closed issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
