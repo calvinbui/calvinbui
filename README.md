@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-2. 🗣 Commented on [#643](https://github.com/kedacore/charts/pull/643#issuecomment-2177925682) in [kedacore/charts](https://github.com/kedacore/charts)
+1. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
+2. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 3. 🗣 Commented on [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146#issuecomment-2081977548) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 4. 🔒 Closed issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 5. 🗣 Commented on [#1330](https://github.com/kubernetes-sigs/aws-efs-csi-driver/issues/1330#issuecomment-2081859008) in [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
