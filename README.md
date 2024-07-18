@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
-2. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-3. 🗣 Commented on [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146#issuecomment-2081977548) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-4. 🔒 Closed issue [#37146](https://github.com/hashicorp/terraform-provider-aws/issues/37146) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-5. 🗣 Commented on [#1330](https://github.com/kubernetes-sigs/aws-efs-csi-driver/issues/1330#issuecomment-2081859008) in [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+1. 🗣 Commented on [#169](https://github.com/metio/terraform-provider-k8s/issues/169#issuecomment-2235046561) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
+2. 🗣 Commented on [#169](https://github.com/metio/terraform-provider-k8s/issues/169#issuecomment-2235015147) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
+3. ❗ Opened issue [#169](https://github.com/metio/terraform-provider-k8s/issues/169) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
+4. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
+5. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!--END_SECTION:activity-->
