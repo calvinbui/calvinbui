@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/metio/terraform-provider-k8s/issues/169#issuecomment-2235046561) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
+1. 🗣 Commented on [#707](https://github.com/uazo/cromite/issues/707#issuecomment-2254863042) in [uazo/cromite](https://github.com/uazo/cromite)
 2. 🗣 Commented on [#169](https://github.com/metio/terraform-provider-k8s/issues/169#issuecomment-2235015147) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
 3. ❗ Opened issue [#169](https://github.com/metio/terraform-provider-k8s/issues/169) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
 4. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
