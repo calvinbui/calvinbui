@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#436](https://github.com/elastic/terraform-provider-elasticstack/issues/436) in [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack)
-2. ❗ Opened issue [#6779](https://github.com/aws/karpenter-provider-aws/issues/6779) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+1. 🗣 Commented on [#6862](https://github.com/aws/karpenter-provider-aws/issues/6862#issuecomment-2316527952) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+2. 🔒 Closed issue [#436](https://github.com/elastic/terraform-provider-elasticstack/issues/436) in [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack)
 3. ❗ Opened issue [#169](https://github.com/metio/terraform-provider-k8s/issues/169) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
 4. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
 5. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
