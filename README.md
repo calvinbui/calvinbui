@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Aug 31, 2024 - [10 Years Anniversary](https://calvin.me/10-years-anniversary)
 - Jul 31, 2024 - [Hyundai i30 SR Premium Hatchback](https://calvin.me/hyundai-i30-sr-premium-hatchback)
 - Jun 29, 2024 - [Blog Post Updates](https://calvin.me/blog-post-updates)
 - May 25, 2024 - [Cycling Part 2](https://calvin.me/cycling-part-2)
 - Apr 27, 2024 - [Cycling Part 1](https://calvin.me/cycling-part-1)
-- Mar 19, 2024 - [Printing Flexible Filaments on Prusa MK3S](https://calvin.me/printing-flexible-filaments-on-prusa-mk3s)
 
 <!-- BLOG-POST-LIST:END -->
 
