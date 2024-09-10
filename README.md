@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6862](https://github.com/aws/karpenter-provider-aws/issues/6862#issuecomment-2316527952) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+1. ❌ Closed PR [#14](https://github.com/calvinbui/dotfiles/pull/14) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 2. 🔒 Closed issue [#436](https://github.com/elastic/terraform-provider-elasticstack/issues/436) in [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack)
 3. ❗ Opened issue [#169](https://github.com/metio/terraform-provider-k8s/issues/169) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
 4. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
