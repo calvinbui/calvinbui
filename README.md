@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1572](https://github.com/kubernetes-sigs/karpenter/issues/1572#issuecomment-2351982960) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
-2. ❌ Closed PR [#14](https://github.com/calvinbui/dotfiles/pull/14) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-3. ❗ Opened issue [#169](https://github.com/metio/terraform-provider-k8s/issues/169) in [metio/terraform-provider-k8s](https://github.com/metio/terraform-provider-k8s)
+1. 🗣 Commented on [#2664](https://github.com/morpheus65535/bazarr/issues/2664#issuecomment-2354202935) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+2. 🗣 Commented on [#1572](https://github.com/kubernetes-sigs/karpenter/issues/1572#issuecomment-2351982960) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
+3. ❌ Closed PR [#14](https://github.com/calvinbui/dotfiles/pull/14) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 4. ❗ Opened issue [#60](https://github.com/aws-observability/helm-charts/issues/60) in [aws-observability/helm-charts](https://github.com/aws-observability/helm-charts)
 5. 🗣 Commented on [#38279](https://github.com/hashicorp/terraform-provider-aws/issues/38279#issuecomment-2212833856) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!--END_SECTION:activity-->
