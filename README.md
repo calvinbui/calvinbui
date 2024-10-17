@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/buildkite/agent-stack-k8s/issues/302#issuecomment-2418245951) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
-2. 🗣 Commented on [#182](https://github.com/buildkite/agent-stack-k8s/issues/182#issuecomment-2415412015) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
-3. 💪 Opened PR [#81](https://github.com/nienbo/cache-buildkite-plugin/pull/81) in [nienbo/cache-buildkite-plugin](https://github.com/nienbo/cache-buildkite-plugin)
-4. 💪 Opened PR [#80](https://github.com/nienbo/cache-buildkite-plugin/pull/80) in [nienbo/cache-buildkite-plugin](https://github.com/nienbo/cache-buildkite-plugin)
-5. 🗣 Commented on [#2664](https://github.com/morpheus65535/bazarr/issues/2664#issuecomment-2378210214) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+1. 🗣 Commented on [#131](https://github.com/thanos-io/objstore/issues/131#issuecomment-2418487722) in [thanos-io/objstore](https://github.com/thanos-io/objstore)
+2. 🗣 Commented on [#302](https://github.com/buildkite/agent-stack-k8s/issues/302#issuecomment-2418245951) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+3. 🗣 Commented on [#182](https://github.com/buildkite/agent-stack-k8s/issues/182#issuecomment-2415412015) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+4. 💪 Opened PR [#81](https://github.com/nienbo/cache-buildkite-plugin/pull/81) in [nienbo/cache-buildkite-plugin](https://github.com/nienbo/cache-buildkite-plugin)
+5. 💪 Opened PR [#80](https://github.com/nienbo/cache-buildkite-plugin/pull/80) in [nienbo/cache-buildkite-plugin](https://github.com/nienbo/cache-buildkite-plugin)
 <!--END_SECTION:activity-->
