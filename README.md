@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Oct 23, 2024 - [Baby Stuff Part 1 - Books](https://calvin.me/baby-books)
 - Sep 23, 2024 - [DIY mmWave Presence Detectors](https://calvin.me/diy-mmwave-presence-detectors)
 - Aug 31, 2024 - [10 Years Anniversary](https://calvin.me/10-years-anniversary)
 - Jul 31, 2024 - [Hyundai i30 SR Premium Hatchback](https://calvin.me/hyundai-i30-sr-premium-hatchback)
 - Jun 29, 2024 - [Blog Post Updates](https://calvin.me/blog-post-updates)
-- May 25, 2024 - [Cycling Part 2](https://calvin.me/cycling-part-2)
 
 <!-- BLOG-POST-LIST:END -->
 
