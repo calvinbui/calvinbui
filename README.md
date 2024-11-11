@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
-2. 🗣 Commented on [#114](https://github.com/zachcheatham/ha-omada/issues/114#issuecomment-2462107178) in [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada)
-3. 🗣 Commented on [#114](https://github.com/zachcheatham/ha-omada/issues/114#issuecomment-2461323042) in [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada)
-4. 🗣 Commented on [#22](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/pull/22#issuecomment-2427898668) in [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity)
+1. 💪 Opened PR [#25](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/pull/25) in [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity)
+2. ❗ Opened issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
+3. 🗣 Commented on [#114](https://github.com/zachcheatham/ha-omada/issues/114#issuecomment-2462107178) in [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada)
+4. 🗣 Commented on [#114](https://github.com/zachcheatham/ha-omada/issues/114#issuecomment-2461323042) in [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada)
 5. 🗣 Commented on [#103](https://github.com/nirmata/kyverno-notation-aws/issues/103#issuecomment-2425584177) in [nirmata/kyverno-notation-aws](https://github.com/nirmata/kyverno-notation-aws)
 <!--END_SECTION:activity-->
