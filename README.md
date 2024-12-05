@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/publicarray/dns-resolver-infra/issues/19#issuecomment-2492741882) in [publicarray/dns-resolver-infra](https://github.com/publicarray/dns-resolver-infra)
+1. 🗣 Commented on [#1876](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1876#issuecomment-2518898040) in [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 2. 🗣 Commented on [#326](https://github.com/buildkite/agent-stack-k8s/issues/326#issuecomment-2489989987) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
 3. ❗ Opened issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
 4. 🗣 Commented on [#114](https://github.com/zachcheatham/ha-omada/issues/114#issuecomment-2462107178) in [zachcheatham/ha-omada](https://github.com/zachcheatham/ha-omada)
