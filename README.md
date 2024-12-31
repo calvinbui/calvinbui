@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128193](https://github.com/python/cpython/pull/128193#issuecomment-2564364713) in [python/cpython](https://github.com/python/cpython)
-2. 🗣 Commented on [#128193](https://github.com/python/cpython/pull/128193#issuecomment-2564289232) in [python/cpython](https://github.com/python/cpython)
-3. 💪 Opened PR [#128193](https://github.com/python/cpython/pull/128193) in [python/cpython](https://github.com/python/cpython)
+1. ❗ Opened issue [#1](https://github.com/mimnix/FlareProxy/issues/1) in [mimnix/FlareProxy](https://github.com/mimnix/FlareProxy)
+2. 🗣 Commented on [#128193](https://github.com/python/cpython/pull/128193#issuecomment-2564364713) in [python/cpython](https://github.com/python/cpython)
+3. 🗣 Commented on [#128193](https://github.com/python/cpython/pull/128193#issuecomment-2564289232) in [python/cpython](https://github.com/python/cpython)
 4. ❗ Opened issue [#128192](https://github.com/python/cpython/issues/128192) in [python/cpython](https://github.com/python/cpython)
 5. ❗ Opened issue [#1](https://github.com/wrick17/github-auto-approve/issues/1) in [wrick17/github-auto-approve](https://github.com/wrick17/github-auto-approve)
 <!--END_SECTION:activity-->
