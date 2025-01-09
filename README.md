@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
-2. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
-3. 🎉 Merged PR [#2](https://github.com/calvinbui/photon-docker/pull/2) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
-4. 🎉 Merged PR [#1](https://github.com/calvinbui/photon-docker/pull/1) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
+1. 🗣 Commented on [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553#issuecomment-2579140833) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
+2. 🔒 Closed issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
+3. ❗ Opened issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
+4. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
 5. ❗ Opened issue [#1](https://github.com/mimnix/FlareProxy/issues/1) in [mimnix/FlareProxy](https://github.com/mimnix/FlareProxy)
 <!--END_SECTION:activity-->
