@@ -24,7 +24,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#883](https://github.com/keylase/nvidia-patch/issues/883) in [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch)
+1. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
 2. 🎉 Merged PR [#3](https://github.com/calvinbui/photon-docker/pull/3) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
 3. 🎉 Merged PR [#2](https://github.com/calvinbui/photon-docker/pull/2) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
 4. 🎉 Merged PR [#1](https://github.com/calvinbui/photon-docker/pull/1) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
