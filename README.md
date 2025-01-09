@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
-2. 🎉 Merged PR [#3](https://github.com/calvinbui/photon-docker/pull/3) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
+1. ❗ Opened issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
+2. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
 3. 🎉 Merged PR [#2](https://github.com/calvinbui/photon-docker/pull/2) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
 4. 🎉 Merged PR [#1](https://github.com/calvinbui/photon-docker/pull/1) in [calvinbui/photon-docker](https://github.com/calvinbui/photon-docker)
 5. ❗ Opened issue [#1](https://github.com/mimnix/FlareProxy/issues/1) in [mimnix/FlareProxy](https://github.com/mimnix/FlareProxy)
