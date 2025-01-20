@@ -13,11 +13,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Jan 21, 2025 - [Better Overseerr Mattermost Notifications](https://calvin.me/better-overseerr-mattermost-notification)
 - Dec 21, 2024 - [Solar Updates](https://calvin.me/solar-updates)
 - Nov 22, 2024 - [Pikmin 4](https://calvin.me/pikmin-4)
 - Oct 23, 2024 - [Baby Stuff Part 1 - Books](https://calvin.me/baby-books)
 - Sep 23, 2024 - [DIY mmWave Presence Detectors](https://calvin.me/diy-mmwave-presence-detectors)
-- Aug 31, 2024 - [10 Years Anniversary](https://calvin.me/10-years-anniversary)
 
 <!-- BLOG-POST-LIST:END -->
 
