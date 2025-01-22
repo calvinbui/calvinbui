@@ -24,8 +24,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#561](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/561) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
-2. 🗣 Commented on [#29014](https://github.com/hashicorp/terraform-provider-aws/issues/29014#issuecomment-2585167092) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. ❗ Opened issue [#1900](https://github.com/skupperproject/skupper/issues/1900) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
+2. ❗ Opened issue [#561](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/561) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
 3. 🔒 Closed issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
 4. ❗ Opened issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
 5. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
