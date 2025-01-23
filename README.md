@@ -24,9 +24,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1900](https://github.com/skupperproject/skupper/issues/1900) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
-2. ❗ Opened issue [#561](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/561) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
-3. 🔒 Closed issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
-4. ❗ Opened issue [#553](https://github.com/bieniu/ha-shellies-discovery-gen2/issues/553) in [bieniu/ha-shellies-discovery-gen2](https://github.com/bieniu/ha-shellies-discovery-gen2)
-5. ❗ Opened issue [#2](https://github.com/pulento/fixDynamicEQ/issues/2) in [pulento/fixDynamicEQ](https://github.com/pulento/fixDynamicEQ)
+1. 🔒 Closed issue [#105](https://github.com/tofutf/tofutf/issues/105) in [tofutf/tofutf](https://github.com/tofutf/tofutf)
+2. 🔒 Closed issue [#104](https://github.com/tofutf/tofutf/issues/104) in [tofutf/tofutf](https://github.com/tofutf/tofutf)
+3. 🔒 Closed issue [#103](https://github.com/tofutf/tofutf/issues/103) in [tofutf/tofutf](https://github.com/tofutf/tofutf)
+4. 🔒 Closed issue [#11](https://github.com/mark1foley/ha-gtfs-rt-v2/issues/11) in [mark1foley/ha-gtfs-rt-v2](https://github.com/mark1foley/ha-gtfs-rt-v2)
+5. 🔒 Closed issue [#2](https://github.com/CDeLeon94/GTFS-V2-Home-Assistant/issues/2) in [CDeLeon94/GTFS-V2-Home-Assistant](https://github.com/CDeLeon94/GTFS-V2-Home-Assistant)
 <!--END_SECTION:activity-->
