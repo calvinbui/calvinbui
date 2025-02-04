@@ -1,9 +1,8 @@
-# Hi, I'm Calvin 🍭
+# Hi, I'm Calvin 🍀
 ## A DevOps Engineer from 🇦🇺 Sydney, Australia</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-c–bui-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/c-bui/)
 [![Keybase](https://img.shields.io/badge/-calvinbui-ff6f21?style=flat-square&labelColor=ff6f21&logo=Keybase&logoColor=white)](https://keybase.io/calvinbui)
-[![Twitter](https://img.shields.io/badge/-ASAPCalvin-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/ASAPCalvin)
 
 <!-- https://github.com/rishavanand/github-profilinator -->
 ## ⚡ GitHub Stats
