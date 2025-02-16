@@ -23,8 +23,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2521](https://github.com/aws/containers-roadmap/issues/2521#issuecomment-2623150903) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
-2. 🗣 Commented on [#1768](https://github.com/uazo/cromite/issues/1768#issuecomment-2614504196) in [uazo/cromite](https://github.com/uazo/cromite)
+1. ❗ Opened issue [#27](https://github.com/Lash-L/python-snoo/issues/27) in [Lash-L/python-snoo](https://github.com/Lash-L/python-snoo)
+2. 🗣 Commented on [#2521](https://github.com/aws/containers-roadmap/issues/2521#issuecomment-2623150903) in [aws/containers-roadmap](https://github.com/aws/containers-roadmap)
 3. ❗ Opened issue [#1919](https://github.com/skupperproject/skupper/issues/1919) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
 4. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2609590231) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
 5. 🔒 Closed issue [#104](https://github.com/tofutf/tofutf/issues/104) in [tofutf/tofutf](https://github.com/tofutf/tofutf)
