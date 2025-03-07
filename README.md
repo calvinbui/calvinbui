@@ -12,11 +12,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Mar 7, 2025 - [Subwoofers](https://calvin.me/subwoofers)
 - Feb 1, 2025 - [Soldering Tools Refresh](https://calvin.me/soldering-tools-refresh)
 - Jan 21, 2025 - [Better Overseerr Mattermost Notifications](https://calvin.me/better-overseerr-mattermost-notification)
 - Dec 21, 2024 - [Solar Updates](https://calvin.me/solar-updates)
 - Nov 22, 2024 - [Pikmin 4](https://calvin.me/pikmin-4)
-- Oct 23, 2024 - [Baby Stuff Part 1 - Books](https://calvin.me/baby-books)
 
 <!-- BLOG-POST-LIST:END -->
 
