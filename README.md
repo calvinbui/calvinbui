@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2865](https://github.com/morpheus65535/bazarr/issues/2865) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
-2. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2695860553) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
-3. ❗ Opened issue [#1919](https://github.com/skupperproject/skupper/issues/1919) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
-4. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2609590231) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
-5. 🔒 Closed issue [#104](https://github.com/tofutf/tofutf/issues/104) in [tofutf/tofutf](https://github.com/tofutf/tofutf)
+1. 🗣 Commented on [#151](https://github.com/linuxserver/docker-bazarr/issues/151#issuecomment-2708185732) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
+2. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708184580) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+3. ❗ Opened issue [#151](https://github.com/linuxserver/docker-bazarr/issues/151) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
+4. ❗ Opened issue [#2865](https://github.com/morpheus65535/bazarr/issues/2865) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+5. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2695860553) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
 <!--END_SECTION:activity-->
