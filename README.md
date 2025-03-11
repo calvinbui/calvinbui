@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
-2. 🗣 Commented on [#151](https://github.com/linuxserver/docker-bazarr/issues/151#issuecomment-2708185732) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
-3. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708184580) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
-4. ❗ Opened issue [#151](https://github.com/linuxserver/docker-bazarr/issues/151) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
-5. ❗ Opened issue [#2865](https://github.com/morpheus65535/bazarr/issues/2865) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+1. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2712135073) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+2. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+3. 🗣 Commented on [#151](https://github.com/linuxserver/docker-bazarr/issues/151#issuecomment-2708185732) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
+4. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708184580) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+5. ❗ Opened issue [#151](https://github.com/linuxserver/docker-bazarr/issues/151) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
 <!--END_SECTION:activity-->
