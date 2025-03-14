@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#88](https://github.com/Scalr/scalr-cli/issues/88) in [Scalr/scalr-cli](https://github.com/Scalr/scalr-cli)
-2. 🗣 Commented on [#1794](https://github.com/schwabe/ics-openvpn/issues/1794#issuecomment-2714112108) in [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn)
-3. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2712135073) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
-4. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
-5. 🗣 Commented on [#151](https://github.com/linuxserver/docker-bazarr/issues/151#issuecomment-2708185732) in [linuxserver/docker-bazarr](https://github.com/linuxserver/docker-bazarr)
+1. ❗ Opened issue [#177](https://github.com/Scalr/go-scalr/issues/177) in [Scalr/go-scalr](https://github.com/Scalr/go-scalr)
+2. ❗ Opened issue [#88](https://github.com/Scalr/scalr-cli/issues/88) in [Scalr/scalr-cli](https://github.com/Scalr/scalr-cli)
+3. 🗣 Commented on [#1794](https://github.com/schwabe/ics-openvpn/issues/1794#issuecomment-2714112108) in [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn)
+4. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2712135073) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+5. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
 <!--END_SECTION:activity-->
