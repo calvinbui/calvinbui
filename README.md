@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
-2. 🗣 Commented on [#451](https://github.com/wizarrrr/wizarr/issues/451#issuecomment-2766261637) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
-3. 🗣 Commented on [#1794](https://github.com/schwabe/ics-openvpn/issues/1794#issuecomment-2714112108) in [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn)
-4. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2712135073) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
+1. 🗣 Commented on [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15#issuecomment-2783387242) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
+2. 🔒 Closed issue [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
+3. ❗ Opened issue [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
+4. 🗣 Commented on [#451](https://github.com/wizarrrr/wizarr/issues/451#issuecomment-2766261637) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 5. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
 <!--END_SECTION:activity-->
