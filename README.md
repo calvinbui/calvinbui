@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3866](https://github.com/bitwarden/android/issues/3866#issuecomment-2848336219) in [bitwarden/android](https://github.com/bitwarden/android)
-2. 🔒 Closed issue [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
-3. ❗ Opened issue [#15](https://github.com/Lash-L/RoborockCustomMap/issues/15) in [Lash-L/RoborockCustomMap](https://github.com/Lash-L/RoborockCustomMap)
+1. ❗ Opened issue [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
+2. ❗ Opened issue [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
+3. 🗣 Commented on [#3866](https://github.com/bitwarden/android/issues/3866#issuecomment-2848336219) in [bitwarden/android](https://github.com/bitwarden/android)
 4. 🗣 Commented on [#451](https://github.com/wizarrrr/wizarr/issues/451#issuecomment-2766261637) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 5. 🗣 Commented on [#2865](https://github.com/morpheus65535/bazarr/issues/2865#issuecomment-2708942644) in [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)
 <!--END_SECTION:activity-->
