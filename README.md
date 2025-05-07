@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191#issuecomment-2852808462) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
-2. 🗣 Commented on [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416#issuecomment-2850522548) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
-3. ❗ Opened issue [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
-4. ❗ Opened issue [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
-5. 🗣 Commented on [#3866](https://github.com/bitwarden/android/issues/3866#issuecomment-2848336219) in [bitwarden/android](https://github.com/bitwarden/android)
+1. ❗ Opened issue [#83](https://github.com/Scalr/agent-helm/issues/83) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
+2. 🗣 Commented on [#78](https://github.com/Scalr/agent-helm/issues/78#issuecomment-2857119415) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
+3. 🗣 Commented on [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191#issuecomment-2852808462) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
+4. 🗣 Commented on [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416#issuecomment-2850522548) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
+5. ❗ Opened issue [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
 <!--END_SECTION:activity-->
