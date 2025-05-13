@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191#issuecomment-2870716966) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
-2. 🔒 Closed issue [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
-3. 🗣 Commented on [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416#issuecomment-2870716550) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
-4. 🔒 Closed issue [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
-5. ❗ Opened issue [#83](https://github.com/Scalr/agent-helm/issues/83) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
+1. 🗣 Commented on [#34789](https://github.com/elastic/beats/issues/34789#issuecomment-2875011292) in [elastic/beats](https://github.com/elastic/beats)
+2. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2875001983) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
+3. 🗣 Commented on [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191#issuecomment-2870716966) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
+4. 🔒 Closed issue [#2191](https://github.com/kubernetes-sigs/karpenter/issues/2191) in [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter)
+5. 🗣 Commented on [#416](https://github.com/Scalr/terraform-provider-scalr/issues/416#issuecomment-2870716550) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
 <!--END_SECTION:activity-->
