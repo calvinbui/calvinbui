@@ -23,8 +23,8 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2906894485) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❌ Closed PR [#16](https://github.com/calvinbui/dotfiles/pull/16) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2908606177) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2906894485) in [immich-app/immich](https://github.com/immich-app/immich)
 3. ❗ Opened issue [#775](https://github.com/leg100/otf/issues/775) in [leg100/otf](https://github.com/leg100/otf)
 4. 🗣 Commented on [#34789](https://github.com/elastic/beats/issues/34789#issuecomment-2875011292) in [elastic/beats](https://github.com/elastic/beats)
 5. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2875001983) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
