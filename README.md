@@ -12,11 +12,11 @@
 ## ✒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- May 25, 2025 - [Gardening Part 2](https://calvin.me/gardening-part-2)
 - Apr 7, 2025 - [Gardening Part 1](https://calvin.me/gardening-part-1)
 - Mar 7, 2025 - [Subwoofers](https://calvin.me/subwoofers)
 - Feb 1, 2025 - [Soldering Tools Refresh](https://calvin.me/soldering-tools-refresh)
 - Jan 21, 2025 - [Better Overseerr Mattermost Notifications](https://calvin.me/better-overseerr-mattermost-notification)
-- Dec 21, 2024 - [Solar Updates](https://calvin.me/solar-updates)
 
 <!-- BLOG-POST-LIST:END -->
 
