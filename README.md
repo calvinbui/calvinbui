@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#423](https://github.com/Scalr/terraform-provider-scalr/issues/423) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
-2. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2908606177) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2906894485) in [immich-app/immich](https://github.com/immich-app/immich)
-4. 🗣 Commented on [#34789](https://github.com/elastic/beats/issues/34789#issuecomment-2875011292) in [elastic/beats](https://github.com/elastic/beats)
+1. ❗ Opened issue [#1703](https://github.com/kubernetes-sigs/descheduler/issues/1703) in [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler)
+2. ❗ Opened issue [#423](https://github.com/Scalr/terraform-provider-scalr/issues/423) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
+3. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2908606177) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#18544](https://github.com/immich-app/immich/issues/18544#issuecomment-2906894485) in [immich-app/immich](https://github.com/immich-app/immich)
 5. 🗣 Commented on [#1900](https://github.com/skupperproject/skupper/issues/1900#issuecomment-2875001983) in [skupperproject/skupper](https://github.com/skupperproject/skupper)
 <!--END_SECTION:activity-->
