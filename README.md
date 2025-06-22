@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994269518) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-2. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994268195) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-3. 🗣 Commented on [#625](https://github.com/buildkite/agent-stack-k8s/issues/625#issuecomment-2986685135) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
-4. ❌ Closed PR [#17](https://github.com/calvinbui/dotfiles/pull/17) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
-5. ❌ Closed PR [#18](https://github.com/calvinbui/dotfiles/pull/18) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
+1. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994289642) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+2. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994269518) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+3. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994268195) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+4. 🗣 Commented on [#625](https://github.com/buildkite/agent-stack-k8s/issues/625#issuecomment-2986685135) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+5. ❌ Closed PR [#17](https://github.com/calvinbui/dotfiles/pull/17) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 <!--END_SECTION:activity-->
