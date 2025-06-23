@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/Scalr/agent-helm/issues/92#issuecomment-2994944919) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
-2. ❗ Opened issue [#92](https://github.com/Scalr/agent-helm/issues/92) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
-3. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994289642) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-4. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994269518) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-5. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994268195) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+1. 🗣 Commented on [#425](https://github.com/Scalr/terraform-provider-scalr/pull/425#issuecomment-2994961932) in [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr)
+2. 🗣 Commented on [#92](https://github.com/Scalr/agent-helm/issues/92#issuecomment-2994944919) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
+3. ❗ Opened issue [#92](https://github.com/Scalr/agent-helm/issues/92) in [Scalr/agent-helm](https://github.com/Scalr/agent-helm)
+4. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994289642) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+5. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994269518) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 <!--END_SECTION:activity-->
