@@ -23,9 +23,9 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149#issuecomment-3241181976) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
-2. 🔒 Closed issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
-3. 🗣 Commented on [#2347](https://github.com/awslabs/amazon-eks-ami/pull/2347#issuecomment-3172989511) in [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami)
+1. 🗣 Commented on [#103](https://github.com/nirmata/kyverno-notation-aws/issues/103#issuecomment-3241231951) in [nirmata/kyverno-notation-aws](https://github.com/nirmata/kyverno-notation-aws)
+2. 🗣 Commented on [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149#issuecomment-3241181976) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
+3. 🔒 Closed issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
 4. ❗ Opened issue [#3394](https://github.com/aws/amazon-vpc-cni-k8s/issues/3394) in [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)
 5. 🗣 Commented on [#829](https://github.com/gtsteffaniak/filebrowser/issues/829#issuecomment-2994289642) in [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 <!--END_SECTION:activity-->
