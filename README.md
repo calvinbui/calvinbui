@@ -34,19 +34,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#321](https://github.com/O-X-L/ansible-opnsense/pull/321) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
+1. 💪 Opened PR [#323](https://github.com/O-X-L/ansible-opnsense/pull/323) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
 
-2. 🗣 Commented on [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149#issuecomment-3241181976) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
+2. 💪 Opened PR [#322](https://github.com/O-X-L/ansible-opnsense/pull/322) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
 
 
 
-3. 🔒 Closed issue [#149](https://github.com/aws/aws-signer-notation-plugin/issues/149) in [aws/aws-signer-notation-plugin](https://github.com/aws/aws-signer-notation-plugin)
+3. 💪 Opened PR [#321](https://github.com/O-X-L/ansible-opnsense/pull/321) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
