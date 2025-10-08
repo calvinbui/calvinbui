@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- Oct 9, 2025 - [Kubernetes on Oracle Cloud Free Tier](https://calvin.me/kubernetes-on-oracle-cloud-free-tier)
 - Sep 4, 2025 - [Shelly Smart Relays](https://calvin.me/shelly-smart-relays)
 - Aug 7, 2025 - [Vitamins and Supplements](https://calvin.me/vitamins-and-supplements)
 - Jul 18, 2025 - [Spammers Are Spoofing My Email Domain](https://calvin.me/spammers-are-spoofing-my-email)
 - Jun 26, 2025 - [Gardening Part 3](https://calvin.me/gardening-part-3)
-- May 25, 2025 - [Gardening Part 2](https://calvin.me/gardening-part-2)
 
 <!-- BLOG-POST-LIST:END -->
 
