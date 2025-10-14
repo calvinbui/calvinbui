@@ -34,7 +34,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#328](https://github.com/O-X-L/ansible-opnsense/pull/328) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
+1. 💪 Opened PR [#328](undefined) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
@@ -55,14 +55,14 @@
 
 
 
-4. ❗ Opened issue [#325](https://github.com/O-X-L/ansible-opnsense/issues/325) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
+4.  Labeled issue [#325](https://github.com/O-X-L/ansible-opnsense/issues/325) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
 
 
 
-5. ❗ Opened issue [#324](https://github.com/O-X-L/ansible-opnsense/issues/324) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
+5.  Labeled issue [#325](https://github.com/O-X-L/ansible-opnsense/issues/325) in [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense)
 
 
 
