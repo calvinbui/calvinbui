@@ -34,12 +34,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/nirmata/kyverno-notation-aws/issues/132#issuecomment-3594678701) in [nirmata/kyverno-notation-aws](https://github.com/nirmata/kyverno-notation-aws)
+1. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3631213054) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#31586](https://github.com/helm/helm/pull/31586#issuecomment-3586190583) in [helm/helm](https://github.com/helm/helm)
+2. 🗣 Commented on [#76](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/76#issuecomment-3631205646) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
