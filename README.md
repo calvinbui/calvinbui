@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3637578099) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+1. ❌ Merged PR [#31586](undefined) in [helm/helm](https://github.com/helm/helm)
 
 
 
 
-2. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3637542180) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3634476059) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+2. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3637578099) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#72](https://github.com/zbigniewmotyka/home-assistant-solplanet/pull/72#issuecomment-3634474753) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
-
+3. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3637542180) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#72](https://github.com/zbigniewmotyka/home-assistant-solplanet/pull/72#issuecomment-3632098951) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3634476059) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#72](https://github.com/zbigniewmotyka/home-assistant-solplanet/pull/72#issuecomment-3634474753) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
