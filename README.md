@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- Nov 30, 2025 - [Home Server 2025 Part 1 - Hardware](https://calvin.me/new-home-server)
+- Dec 30, 2025 - [Home Server 2025 Part 2 - Software](https://calvin.me/home-server-2025-part-2-software)
+- Nov 30, 2025 - [Home Server 2025 Part 1 - Hardware](https://calvin.me/home-server-2025-part-1-hardware)
 - Oct 9, 2025 - [Kubernetes on Oracle Cloud Free Tier](https://calvin.me/kubernetes-on-oracle-cloud-free-tier)
 - Sep 4, 2025 - [Shelly Smart Relays](https://calvin.me/shelly-smart-relays)
 - Aug 7, 2025 - [Vitamins and Supplements](https://calvin.me/vitamins-and-supplements)
-- Jul 18, 2025 - [Spammers Are Spoofing My Email Domain](https://calvin.me/spammers-are-spoofing-my-email)
 
 <!-- BLOG-POST-LIST:END -->
 
