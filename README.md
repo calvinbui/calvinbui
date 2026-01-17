@@ -34,12 +34,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#795](https://github.com/buildkite/agent-stack-k8s/pull/795#issuecomment-3698297680) in [buildkite/agent-stack-k8s](https://github.com/buildkite/agent-stack-k8s)
+1. ❌ Closed PR [#77](https://github.com/zbigniewmotyka/home-assistant-solplanet/pull/77) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#68](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/68#issuecomment-3694730977) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+2. 🗣 Commented on [#77](https://github.com/zbigniewmotyka/home-assistant-solplanet/pull/77#issuecomment-3762562635) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
