@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3764499496) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3764550547) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3764496894) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3763609746) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🔒 Closed issue [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#1](https://github.com/calvinbui/home-assistant-solplanet/pull/1#issuecomment-3763602927) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3764499496) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3763597686) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3764496894) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3763609746) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
