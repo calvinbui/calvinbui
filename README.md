@@ -34,19 +34,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/AlexStrNik/Browserino/issues/13#issuecomment-3795694908) in [AlexStrNik/Browserino](https://github.com/AlexStrNik/Browserino)
+1. ℹ️ Assigned PR [#4](https://github.com/calvinbui/home-assistant-solplanet/pull/4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3775616889) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#13](https://github.com/AlexStrNik/Browserino/issues/13#issuecomment-3795694908) in [AlexStrNik/Browserino](https://github.com/AlexStrNik/Browserino)
 
 
 
 
 
 
-3. 🔒 Closed issue [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+3. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3775616889) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
