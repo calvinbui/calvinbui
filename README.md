@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/issues/5#issuecomment-3804022998) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#4](https://github.com/calvinbui/home-assistant-solplanet/pull/4#issuecomment-3802163938) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. ℹ️ Assigned PR [#4](https://github.com/calvinbui/home-assistant-solplanet/pull/4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🔒 Closed issue [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#13](https://github.com/AlexStrNik/Browserino/issues/13#issuecomment-3795694908) in [AlexStrNik/Browserino](https://github.com/AlexStrNik/Browserino)
-
+3. 🗣 Commented on [#4](https://github.com/calvinbui/home-assistant-solplanet/pull/4#issuecomment-3802163938) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/issues/2#issuecomment-3775616889) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ℹ️ Assigned PR [#4](https://github.com/calvinbui/home-assistant-solplanet/pull/4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#13](https://github.com/AlexStrNik/Browserino/issues/13#issuecomment-3795694908) in [AlexStrNik/Browserino](https://github.com/AlexStrNik/Browserino)
 
 
 
