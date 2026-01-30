@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/0.9.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. ❗ Opened issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3823054204) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3822879876) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7#issuecomment-3825720136) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. ❗ Opened issue [#1](https://github.com/madeinoz67/open-meteo-cloudcover/issues/1) in [madeinoz67/open-meteo-cloudcover](https://github.com/madeinoz67/open-meteo-cloudcover)
-
+3. 🔒 Closed issue [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/issues/5#issuecomment-3815338652) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🚀 Published release [0.9.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/0.9.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3823054204) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
