@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ❗ Opened issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7#issuecomment-3825720136) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3827136325) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. ❗ Opened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🚀 Published release [0.9.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/0.9.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ❗ Opened issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7#issuecomment-3825720136) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
