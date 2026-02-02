@@ -34,7 +34,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 💪 Opened PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
 
 
 
