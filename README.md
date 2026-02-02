@@ -34,12 +34,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
+1. 🗣 Commented on [#523](https://github.com/aquasecurity/trivy-checks/pull/523#issuecomment-3837695574) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
 
 
 
 
-2. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3827136325) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 💪 Opened PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
 
 
 
