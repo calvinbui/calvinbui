@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/calvinbui/home-assistant-solplanet/issues/10#issuecomment-3853049324) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🎉 Merged PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
 
 
 
 
-2. 🗣 Commented on [#523](https://github.com/aquasecurity/trivy-checks/pull/523#issuecomment-3837695574) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
-
-
-
-
-
-
-3. 💪 Opened PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
+2. 🗣 Commented on [#10](https://github.com/calvinbui/home-assistant-solplanet/issues/10#issuecomment-3853049324) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#523](https://github.com/aquasecurity/trivy-checks/pull/523#issuecomment-3837695574) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
 
 
 
 
 
-5. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3827136325) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 💪 Opened PR [#523](https://github.com/aquasecurity/trivy-checks/pull/523) in [aquasecurity/trivy-checks](https://github.com/aquasecurity/trivy-checks)
+
+
+
+
+
+
+5. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
