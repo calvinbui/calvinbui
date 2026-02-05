@@ -46,7 +46,7 @@
 
 
 
-3. ❗ Opened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+3. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
@@ -55,14 +55,14 @@
 
 
 
-4. ❗ Opened issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+4. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-3827136325) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-5. 🗣 Commented on [#7](https://github.com/calvinbui/home-assistant-solplanet/issues/7#issuecomment-3825720136) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+5. ❗ Opened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
