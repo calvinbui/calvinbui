@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8#issuecomment-3900346476) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. ℹ️ Labeled issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3897046112) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3895768248) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ℹ️ Labeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. ❌ Closed PR [#1](https://github.com/autopilot3/oauth2/pull/1) in [autopilot3/oauth2](https://github.com/autopilot3/oauth2)
-
+3. ℹ️ Unlabeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. ❌ Closed PR [#2](https://github.com/autopilot3/nats.go/pull/2) in [autopilot3/nats.go](https://github.com/autopilot3/nats.go)
+
+
+
+4. 🔓 Reopened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8#issuecomment-3900346476) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
