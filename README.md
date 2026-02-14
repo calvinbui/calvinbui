@@ -34,19 +34,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3897046112) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8#issuecomment-3900346476) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3895768248) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3897046112) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-3. ❌ Closed PR [#1](https://github.com/autopilot3/recurly-client-go/pull/1) in [autopilot3/recurly-client-go](https://github.com/autopilot3/recurly-client-go)
+3. 🗣 Commented on [#11](https://github.com/calvinbui/home-assistant-solplanet/issues/11#issuecomment-3895768248) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
