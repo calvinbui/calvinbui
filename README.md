@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8#issuecomment-3904184270) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ℹ️ Labeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. ℹ️ Unlabeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ℹ️ Labeled issue [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔓 Reopened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. ℹ️ Labeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#8](https://github.com/calvinbui/home-assistant-solplanet/issues/8#issuecomment-3900346476) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ℹ️ Unlabeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🔓 Reopened issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
