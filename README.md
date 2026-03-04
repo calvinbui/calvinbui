@@ -34,7 +34,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5200](https://github.com/browserless/browserless/pull/5200) in [browserless/browserless](https://github.com/browserless/browserless)
+1. 🗣 Commented on [#1191](https://github.com/falcosecurity/falcosidekick/issues/1191#issuecomment-3994591596) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 
 
 
