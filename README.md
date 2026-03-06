@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
+1. 🔒 Closed issue [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ℹ️ Labeled issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
-
-
-
-
-
-
-3. ❗ Opened issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
+2. 🗣 Commented on [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12#issuecomment-4011015275) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#1191](https://github.com/falcosecurity/falcosidekick/issues/1191#issuecomment-3994591596) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-
+3. ℹ️ Labeled issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
 
 
 
 
 
-5. ℹ️ Labeled issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ℹ️ Labeled issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
+
+
+
+
+
+
+5. ❗ Opened issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
 
 
 
