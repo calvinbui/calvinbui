@@ -34,28 +34,28 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.10.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#560](https://github.com/connorgallopo/Tracearr/issues/560#issuecomment-4020099766) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
 
 
 
 
-2. 🔒 Closed issue [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12#issuecomment-4011015275) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v0.10.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.10.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
+3. 🔒 Closed issue [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
-4. ℹ️ Labeled issue [#560](https://github.com/connorgallopo/Tracearr/issues/560) in [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr)
+
+
+
+
+
+
+4. 🗣 Commented on [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12#issuecomment-4011015275) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
