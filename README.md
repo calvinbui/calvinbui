@@ -34,35 +34,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13#issuecomment-4060621218) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🚀 Published release [v0.11.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.11.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13#issuecomment-4039256104) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#6761](https://github.com/Kilo-Org/kilocode/issues/6761#issuecomment-4027865043) in [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+2. 🔒 Closed issue [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13#issuecomment-4060621218) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#12](https://github.com/calvinbui/home-assistant-solplanet/issues/12#issuecomment-4011015275) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13#issuecomment-4039256104) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#6761](https://github.com/Kilo-Org/kilocode/issues/6761#issuecomment-4027865043) in [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 
 
 
