@@ -34,19 +34,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.11.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.11.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#14](https://github.com/calvinbui/home-assistant-solplanet/pull/14#issuecomment-4094578960) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🔒 Closed issue [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v0.11.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.11.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-3. 🗣 Commented on [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13#issuecomment-4060621218) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+3. 🔒 Closed issue [#13](https://github.com/calvinbui/home-assistant-solplanet/issues/13) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
