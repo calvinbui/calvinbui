@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#692](https://github.com/nextcloud/notify_push/issues/692#issuecomment-4158322787) in [nextcloud/notify_push](https://github.com/nextcloud/notify_push)
+1. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#14](https://github.com/calvinbui/home-assistant-solplanet/pull/14#issuecomment-4150020560) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v0.12.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15#issuecomment-4174613867) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🚀 Published release [v0.12.0-rc1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🚀 Published release [v0.12.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#6761](https://github.com/Kilo-Org/kilocode/issues/6761#issuecomment-4027865043) in [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+
+
+
+4. 🗣 Commented on [#692](https://github.com/nextcloud/notify_push/issues/692#issuecomment-4158322787) in [nextcloud/notify_push](https://github.com/nextcloud/notify_push)
+
+
+
+
+
+
+5. 🗣 Commented on [#14](https://github.com/calvinbui/home-assistant-solplanet/pull/14#issuecomment-4150020560) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
