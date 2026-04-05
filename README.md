@@ -35,28 +35,28 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🚀 Published release [v0.12.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15#issuecomment-4174613867) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v0.12.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
+3. 🗣 Commented on [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15#issuecomment-4174613867) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
-4. 🗣 Commented on [#692](https://github.com/nextcloud/notify_push/issues/692#issuecomment-4158322787) in [nextcloud/notify_push](https://github.com/nextcloud/notify_push)
+
+
+
+
+
+
+4. 🚀 Published release [v0.12.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
