@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.12.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. ℹ️ Labeled issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
 
 
 
-2. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15#issuecomment-4174613867) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ❗ Opened issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
 
 
 
 
 
-
-
-4. 🚀 Published release [v0.12.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🚀 Published release [v0.12.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#14](https://github.com/calvinbui/home-assistant-solplanet/pull/14#issuecomment-4150020560) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15#issuecomment-4174613867) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
