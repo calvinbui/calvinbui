@@ -35,28 +35,28 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+1. 🚀 Published release [v0.12.0-rc5](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc5) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ❗ Opened issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-
-
-
-
-
-
-3. 🚀 Published release [v0.12.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ℹ️ Labeled issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
 
 
 
 
 
+3. ❗ Opened issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
 
-4. 🔒 Closed issue [#15](https://github.com/calvinbui/home-assistant-solplanet/issues/15) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+4. 🚀 Published release [v0.12.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
