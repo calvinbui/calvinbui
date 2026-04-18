@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563#issuecomment-4264439732) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
+1. 🚀 Published release [v0.12.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ℹ️ Labeled issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
-
-
-
-
-
-
-3. ❗ Opened issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
+2. 🗣 Commented on [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563#issuecomment-4264439732) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
 
 
 
 
 
 
-
-
-4. ℹ️ Assigned issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
-
+3. ℹ️ Labeled issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
 
 
 
 
 
-5. ℹ️ Labeled issue [#886](https://github.com/homeassistant-ai/ha-mcp/issues/886) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+
+
+
+4. ❗ Opened issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
+
+
+
+
+
+
+5. ℹ️ Assigned issue [#1563](https://github.com/nicholas-fedor/watchtower/issues/1563) in [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
 
 
 
