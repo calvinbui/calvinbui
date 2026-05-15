@@ -63,7 +63,7 @@
 
 
 
-5. 🚀 Published release [v0.12.1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+5. 🗣 Commented on [#18](https://github.com/calvinbui/home-assistant-solplanet/pull/18#issuecomment-4279522750) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
