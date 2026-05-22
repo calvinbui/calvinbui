@@ -35,7 +35,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#897](https://github.com/jacobalberty/unifi-docker/pull/897) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
+1. 🗣 Commented on [#20](https://github.com/calvinbui/home-assistant-solplanet/pull/20#issuecomment-4514744193) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
