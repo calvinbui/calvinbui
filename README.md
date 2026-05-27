@@ -35,19 +35,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#897](https://github.com/jacobalberty/unifi-docker/pull/897#issuecomment-4539656725) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
+1. ❌ Closed PR [#19](https://github.com/calvinbui/dotfiles/pull/19) in [calvinbui/dotfiles](https://github.com/calvinbui/dotfiles)
 
 
 
 
-2. 🗣 Commented on [#20](https://github.com/calvinbui/home-assistant-solplanet/pull/20#issuecomment-4514744193) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#897](https://github.com/jacobalberty/unifi-docker/pull/897#issuecomment-4539656725) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
 
 
 
 
 
 
-3. 🚀 Published release [v0.12.2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+3. 🗣 Commented on [#20](https://github.com/calvinbui/home-assistant-solplanet/pull/20#issuecomment-4514744193) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
