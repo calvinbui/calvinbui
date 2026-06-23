@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- Jun 23, 2026 - [Novated Lease Reviewer Skill](https://calvin.me/novated-lease-reviewer-skill/)
 - May 31, 2026 - [Garage Door Insulation and Sealing](https://calvin.me/garage-door-insulation-and-sealing/)
 - Apr 30, 2026 - [Network Cabling Upgrade](https://calvin.me/network-cabling-upgrade/)
 - Mar 18, 2026 - [10 Gigabit Home Networking](https://calvin.me/10-gigabit-home-networking/)
 - Feb 9, 2026 - [Solar Battery](https://calvin.me/solar-battery/)
-- Jan 30, 2026 - [Gaming PC CPU Upgrade](https://calvin.me/gaming-pc-cpu-upgrade/)
 
 <!-- BLOG-POST-LIST:END -->
 
