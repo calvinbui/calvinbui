@@ -35,7 +35,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3134](https://github.com/networkupstools/nut/issues/3134#issuecomment-4865694323) in [networkupstools/nut](https://github.com/networkupstools/nut)
+1. 🗣 Commented on [#11](https://github.com/doy/rbw/issues/11#issuecomment-4893400347) in [doy/rbw](https://github.com/doy/rbw)
 
 
 
