@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#297](https://github.com/jlesage/docker-jdownloader-2/issues/297) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
+1. 🚀 Published release [v0.12.3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.12.3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ❗ Opened issue [#297](https://github.com/jlesage/docker-jdownloader-2/issues/297) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
-
-
-
-
-
-
-3. 🗣 Commented on [#11](https://github.com/doy/rbw/issues/11#issuecomment-4893400347) in [doy/rbw](https://github.com/doy/rbw)
+2. ❌ Closed PR [#21](https://github.com/calvinbui/home-assistant-solplanet/pull/21) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#19](https://github.com/calvinbui/home-assistant-solplanet/issues/19) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 💪 Opened PR [#21](https://github.com/calvinbui/home-assistant-solplanet/pull/21) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#18](https://github.com/calvinbui/home-assistant-solplanet/pull/18#issuecomment-4279522750) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ℹ️ Labeled issue [#297](https://github.com/jlesage/docker-jdownloader-2/issues/297) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
+
+
+
+
+
+
+5. ❗ Opened issue [#297](https://github.com/jlesage/docker-jdownloader-2/issues/297) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
 
 
 
