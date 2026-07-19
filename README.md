@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/calvinbui/home-assistant-solplanet/pull/22#issuecomment-5011215339) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 💪 Opened PR [#23](https://github.com/calvinbui/home-assistant-solplanet/pull/23) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🚀 Published release [v0.13.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.13.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v0.13.0-rc1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.13.0-rc1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#22](https://github.com/calvinbui/home-assistant-solplanet/pull/22#issuecomment-5011215339) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. ❗ Opened issue [#293](https://github.com/agigante80/actual-mcp-server/issues/293) in [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server)
-
+3. 🚀 Published release [v0.13.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.13.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#897](https://github.com/jacobalberty/unifi-docker/pull/897#issuecomment-4953689142) in [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker)
+
+
+
+4. 🚀 Published release [v0.13.0-rc1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v0.13.0-rc1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. ❗ Opened issue [#293](https://github.com/agigante80/actual-mcp-server/issues/293) in [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server)
 
 
 
