@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- Jul 29, 2026 - [Sideloading Any Android App on the Zeekr 7X](https://calvin.me/zeekr-7x-sideloading-apps/)
 - Jun 23, 2026 - [Novated Lease Reviewer Skill](https://calvin.me/novated-lease-reviewer-skill/)
 - May 31, 2026 - [Garage Door Insulation and Sealing](https://calvin.me/garage-door-insulation-and-sealing/)
 - Apr 30, 2026 - [Network Cabling Upgrade](https://calvin.me/network-cabling-upgrade/)
 - Mar 18, 2026 - [10 Gigabit Home Networking](https://calvin.me/10-gigabit-home-networking/)
-- Feb 9, 2026 - [Solar Battery](https://calvin.me/solar-battery/)
 
 <!-- BLOG-POST-LIST:END -->
 
