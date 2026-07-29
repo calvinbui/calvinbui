@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5119760562) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5124196524) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5114697498) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5090814575) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v1.0.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5090790025) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🔒 Closed issue [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5070383461) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🎉 Merged PR [#26](https://github.com/calvinbui/home-assistant-solplanet/pull/26) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 💪 Opened PR [#26](https://github.com/calvinbui/home-assistant-solplanet/pull/26) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
