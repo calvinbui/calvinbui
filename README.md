@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5148345888) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🚀 Published release [v2.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v2.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
 
 
 
 
-2. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5124196524) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v1.0.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v1.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v1.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5148345888) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🎉 Merged PR [#26](https://github.com/calvinbui/home-assistant-solplanet/pull/26) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5124196524) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🚀 Published release [v1.0.0-rc2](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc2) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
