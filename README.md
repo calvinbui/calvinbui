@@ -35,28 +35,28 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v2.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
+1. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5179226427) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🚀 Published release [v1.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v1.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
-
-
-
-
-
-
-3. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5148345888) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v2.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v2.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
 
 
 
 
 
 
+3. 🚀 Published release [v1.0.0](https://github.com/calvinbui/fitbit-activity-generator/releases/tag/v1.0.0) in [calvinbui/fitbit-activity-generator](https://github.com/calvinbui/fitbit-activity-generator)
 
 
-4. 🗣 Commented on [#25](https://github.com/calvinbui/home-assistant-solplanet/issues/25#issuecomment-5124196524) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+4. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5148345888) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
