@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/calvinbui/home-assistant-solplanet/pull/29) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🚀 Published release [v1.0.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🎉 Merged PR [#1083](https://github.com/vrtmrz/obsidian-livesync/pull/1083) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-
-
-
-
-
-
-3. 💪 Opened PR [#1083](https://github.com/vrtmrz/obsidian-livesync/pull/1083) in [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
+2. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5226795735) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5216498910) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#28](https://github.com/calvinbui/home-assistant-solplanet/pull/28#issuecomment-5226794903) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🗣 Commented on [#27](https://github.com/calvinbui/home-assistant-solplanet/pull/27#issuecomment-5216471751) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5226783997) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. ❌ Closed PR [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
