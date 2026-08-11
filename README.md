@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. ❗ Opened issue [#5470](https://github.com/hacs/integration/issues/5470) in [hacs/integration](https://github.com/hacs/integration)
 
 
 
 
-2. ❗ Opened issue [#1](https://github.com/calvinbui/home-assistant-solplanet/issues/1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v1.0.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ❗ Opened issue [#94](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/94) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🚀 Published release [v1.0.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🚀 Published release [v1.0.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🚀 Published release [v1.0.0-rc1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. ❗ Opened issue [#1](https://github.com/calvinbui/home-assistant-solplanet/issues/1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🚀 Published release [v1.0.0-rc4](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc4) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
