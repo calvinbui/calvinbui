@@ -35,12 +35,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/calvinbui/home-assistant-solplanet/pull/30#issuecomment-5230891811) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🚀 Published release [v1.0.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ❌ Closed PR [#30](https://github.com/calvinbui/home-assistant-solplanet/pull/30) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ❗ Opened issue [#1](https://github.com/calvinbui/home-assistant-solplanet/issues/1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
@@ -56,14 +56,14 @@
 
 
 
-4. 🗣 Commented on [#24](https://github.com/calvinbui/home-assistant-solplanet/pull/24#issuecomment-5226795735) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+4. 🚀 Published release [v1.0.0-rc3](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-5. 🗣 Commented on [#28](https://github.com/calvinbui/home-assistant-solplanet/pull/28#issuecomment-5226794903) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+5. 🚀 Published release [v1.0.0-rc1](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.0.0-rc1) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
