@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Dantenothing/openavm-recorder/issues/2) in [Dantenothing/openavm-recorder](https://github.com/Dantenothing/openavm-recorder)
+1. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5282187088) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5267954894) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5267825591) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. ❗ Opened issue [#2](https://github.com/Dantenothing/openavm-recorder/issues/2) in [Dantenothing/openavm-recorder](https://github.com/Dantenothing/openavm-recorder)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5267799396) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5267954894) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. ❗ Opened issue [#5470](https://github.com/hacs/integration/issues/5470) in [hacs/integration](https://github.com/hacs/integration)
+
+
+
+4. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5267825591) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5267799396) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
