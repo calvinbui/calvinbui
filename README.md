@@ -35,12 +35,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5323564437) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5354016956) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. 🗣 Commented on [#2](https://github.com/calvinbui/home-assistant-solplanet/pull/2#issuecomment-5282187088) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5323564437) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
