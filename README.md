@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5438161264) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 💪 Opened PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
 
-2. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/pull/5#issuecomment-5438160011) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 🚀 Published release [v1.1.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.1.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5438161264) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🔒 Closed issue [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/pull/5#issuecomment-5438160011) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 🎉 Merged PR [#5](https://github.com/calvinbui/home-assistant-solplanet/pull/5) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🚀 Published release [v1.1.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.1.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🔒 Closed issue [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
