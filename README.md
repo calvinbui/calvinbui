@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/Fryyyyy/zeekr_homeassistant/pull/150) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
+1. 🗣 Commented on [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149#issuecomment-5489328595) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
 
-2. 💪 Opened PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
-
-
-
-
-
-
-3. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5438161264) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 💪 Opened PR [#150](https://github.com/Fryyyyy/zeekr_homeassistant/pull/150) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
 
 
 
-
-
-4. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/pull/5#issuecomment-5438160011) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 💪 Opened PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
 
 
-5. 🚀 Published release [v1.1.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v1.1.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 🗣 Commented on [#3](https://github.com/calvinbui/home-assistant-solplanet/issues/3#issuecomment-5438161264) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🗣 Commented on [#5](https://github.com/calvinbui/home-assistant-solplanet/pull/5#issuecomment-5438160011) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
