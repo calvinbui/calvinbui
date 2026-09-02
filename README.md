@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/calvinbui/zeekr_homeassistant/pull/3) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
+1. ❌ Closed PR [#2](https://github.com/calvinbui/zeekr_homeassistant/pull/2) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
 
 
 
 
-2. 🎉 Merged PR [#152](https://github.com/Fryyyyy/zeekr_homeassistant/pull/152) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
-
-
-
-
-
-
-3. 💪 Opened PR [#152](https://github.com/Fryyyyy/zeekr_homeassistant/pull/152) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
+2. 🗣 Commented on [#2](https://github.com/calvinbui/zeekr_homeassistant/pull/2#issuecomment-5507095061) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
 
 
 
 
 
 
-
-
-4. 🎉 Merged PR [#1](https://github.com/calvinbui/zeekr_homeassistant/pull/1) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
-
+3. 🎉 Merged PR [#3](https://github.com/calvinbui/zeekr_homeassistant/pull/3) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
 
 
 
 
 
-5. 💪 Opened PR [#2](https://github.com/calvinbui/zeekr_homeassistant/pull/2) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
+
+
+
+4. 💪 Opened PR [#3](https://github.com/calvinbui/zeekr_homeassistant/pull/3) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
+
+
+
+
+
+
+5. 🎉 Merged PR [#152](https://github.com/Fryyyyy/zeekr_homeassistant/pull/152) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
