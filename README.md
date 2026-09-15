@@ -35,19 +35,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
+1. ❗ Opened issue [#1260](https://github.com/clidey/whodb/issues/1260) in [clidey/whodb](https://github.com/clidey/whodb)
 
 
 
 
-2. 🎉 Merged PR [#151](https://github.com/Fryyyyy/zeekr_homeassistant/pull/151) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
+2. 🎉 Merged PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
 
 
 
-3. ❌ Closed PR [#2](https://github.com/calvinbui/zeekr_homeassistant/pull/2) in [calvinbui/zeekr_homeassistant](https://github.com/calvinbui/zeekr_homeassistant)
+3. 🎉 Merged PR [#151](https://github.com/Fryyyyy/zeekr_homeassistant/pull/151) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
 
 
 
