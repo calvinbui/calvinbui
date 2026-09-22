@@ -35,19 +35,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-5747508531) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
-2. ❗ Opened issue [#1260](https://github.com/clidey/whodb/issues/1260) in [clidey/whodb](https://github.com/clidey/whodb)
+2. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-5747508531) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-3. 🎉 Merged PR [#149](https://github.com/Fryyyyy/zeekr_homeassistant/pull/149) in [Fryyyyy/zeekr_homeassistant](https://github.com/Fryyyyy/zeekr_homeassistant)
+3. ❗ Opened issue [#1260](https://github.com/clidey/whodb/issues/1260) in [clidey/whodb](https://github.com/clidey/whodb)
 
 
 
