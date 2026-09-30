@@ -35,19 +35,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. ❗ Opened issue [#148](https://github.com/AndrewGuenther/fck-nat/issues/148) in [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)
 
 
 
 
-2. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-5747508531) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-3. ❗ Opened issue [#1260](https://github.com/clidey/whodb/issues/1260) in [clidey/whodb](https://github.com/clidey/whodb)
+3. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-5747508531) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
