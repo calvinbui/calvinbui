@@ -35,7 +35,7 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#148](https://github.com/AndrewGuenther/fck-nat/issues/148) in [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat)
+1. 🔒 Closed issue [#94](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/94) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
