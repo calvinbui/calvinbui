@@ -35,19 +35,19 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#94](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/94) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+1. 💪 Opened PR [#30](https://github.com/borconi/openzeekr/pull/30) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
 
-2. 🔒 Closed issue [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 💪 Opened PR [#29](https://github.com/borconi/openzeekr/pull/29) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
 
 
 
-3. 🗣 Commented on [#6](https://github.com/calvinbui/home-assistant-solplanet/issues/6#issuecomment-5747508531) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+3. 🔒 Closed issue [#94](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/94) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
 
 
 
