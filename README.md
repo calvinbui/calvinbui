@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/borconi/openzeekr/pull/32) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
+1. 💪 Opened PR [#33](https://github.com/borconi/openzeekr/pull/33) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
 
-2. ❗ Opened issue [#31](https://github.com/borconi/openzeekr/issues/31) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
-
-
-
-
-
-
-3. 💪 Opened PR [#30](https://github.com/borconi/openzeekr/pull/30) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
+2. 💪 Opened PR [#32](https://github.com/borconi/openzeekr/pull/32) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
 
 
 
-
-
-4. 💪 Opened PR [#29](https://github.com/borconi/openzeekr/pull/29) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
-
+3. ❗ Opened issue [#31](https://github.com/borconi/openzeekr/issues/31) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
 
 
-5. 🔒 Closed issue [#94](https://github.com/zbigniewmotyka/home-assistant-solplanet/issues/94) in [zbigniewmotyka/home-assistant-solplanet](https://github.com/zbigniewmotyka/home-assistant-solplanet)
+
+
+
+4. 💪 Opened PR [#30](https://github.com/borconi/openzeekr/pull/30) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
+
+
+
+
+
+
+5. 💪 Opened PR [#29](https://github.com/borconi/openzeekr/pull/29) in [borconi/openzeekr](https://github.com/borconi/openzeekr)
 
 
 
