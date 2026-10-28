@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- Oct 29, 2026 - [EV Tier List](https://calvin.me/ev-tier-list/)
 - Sep 29, 2026 - [Garage Wall-Mounted Rack](https://calvin.me/garage-wall-mounted-rack/)
 - Aug 30, 2026 - [Garage Wall Shelving](https://calvin.me/garage-wall-shelving/)
 - Jul 29, 2026 - [Sideloading Any Android App on the Zeekr 7X](https://calvin.me/zeekr-7x-sideloading-apps/)
 - Jun 23, 2026 - [Novated Lease Reviewer Skill](https://calvin.me/novated-lease-reviewer-skill/)
-- May 31, 2026 - [Garage Door Insulation and Sealing](https://calvin.me/garage-door-insulation-and-sealing/)
 
 <!-- BLOG-POST-LIST:END -->
 
