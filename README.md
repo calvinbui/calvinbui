@@ -35,12 +35,12 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 💪 Opened PR [#76](https://github.com/autopilot3/liquid/pull/76) in [autopilot3/liquid](https://github.com/autopilot3/liquid)
 
 
 
 
-2. 🎉 Merged PR [#7](https://github.com/calvinbui/home-assistant-solplanet/pull/7) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🔒 Closed issue [#9](https://github.com/calvinbui/home-assistant-solplanet/issues/9) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
