@@ -35,35 +35,35 @@
 ## 🏃‍ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v2.0.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+1. 🗣 Commented on [#138](https://github.com/dts88/zeekr-shortcut-car/issues/138#issuecomment-7007070372) in [dts88/zeekr-shortcut-car](https://github.com/dts88/zeekr-shortcut-car)
 
 
 
 
-2. 🎉 Merged PR [#17](https://github.com/calvinbui/home-assistant-solplanet/pull/17) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
-
-
-
-
-
-3. 💪 Opened PR [#17](https://github.com/calvinbui/home-assistant-solplanet/pull/17) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+2. 🚀 Published release [v2.0.0](https://github.com/calvinbui/home-assistant-solplanet/releases/tag/v2.0.0) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
 
-
-
-4. 🎉 Merged PR [#16](https://github.com/calvinbui/home-assistant-solplanet/pull/16) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
-
+3. 🎉 Merged PR [#17](https://github.com/calvinbui/home-assistant-solplanet/pull/17) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
 
 
-5. 💪 Opened PR [#16](https://github.com/calvinbui/home-assistant-solplanet/pull/16) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+4. 💪 Opened PR [#17](https://github.com/calvinbui/home-assistant-solplanet/pull/17) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
+
+
+
+
+
+
+5. 🎉 Merged PR [#16](https://github.com/calvinbui/home-assistant-solplanet/pull/16) in [calvinbui/home-assistant-solplanet](https://github.com/calvinbui/home-assistant-solplanet)
 
 
 
